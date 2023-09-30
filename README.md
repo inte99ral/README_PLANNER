@@ -44,6 +44,17 @@
         <label style="width: 120%; margin-top: 0.2rem; border-radius: 1rem; background: #A3B6C9; color: white">&nbsp;</label>
       </div>
     </td>
+    <td class="2023-09-30">
+      <div style="height: 20rem; display: flex; flex-direction: column;">
+        <h2 style="text-align: center; color: red;">30</h2>
+        <label><input type="checkbox" checked>[10:00] 모닝 커피 & 음악 타임</label>
+        <label><input type="checkbox" checked>[13:00] 점심 식사</label>
+        <label><input type="checkbox" checked>[21:46] 포트폴리오 사이트 섹션1</label>
+        <label><input type="checkbox" c hecked>알고리즘 풀이</label>
+        <div style="flex-grow: 1;"></div>
+        <label style="width: 120%; margin-top: 0.2rem; border-radius: 1rem; background: #A3B6C9; color: white">&nbsp;</label>
+      </div>
+    </td>
 
   </tr>
 </table>
