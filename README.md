@@ -108,11 +108,23 @@
         <label><input type="checkbox" checked>[07:30] 모닝 커피 & 음악듣기</label>
         <label><input type="checkbox" checked>[08:00] 플래너 그래프 수정</label>
         <label><input type="checkbox" checked>[13:00] 점심 : 감자칩 바베큐맛</label>
+        <label><input type="checkbox" checked>[15:00] 파일 다시 다운</label>
+        <label><input type="checkbox" checked>[17:00] 저녁 : 삼계탕</label>
+        <label><input type="checkbox" checked>[19:00] 플레이리스트 정리</label>
         <div class="↑ DONE" style="flex-grow: 1;"></div>
-        <label><input type="checkbox" c hecked> 플레이리스트 정리</label>
+        <div class="↑ TODO"></div>
+      </div>
+    </td>
+    <td class="2023-10-6">
+      <div class="day">
+        <h2 class="date">6</h2>
+        <label><input type="checkbox" checked>[07:30] 모닝 커피 & 음악듣기</label>
+        <label><input type="checkbox" checked>[12:00] 점심 : 치킨</label>
+        <label><input type="checkbox" checked>[17:00] 저녁 : 치킨 + 포도</label>
+        <div class="↑ DONE" style="flex-grow: 1;"></div>
+        <label><input type="checkbox" c hecked> vs code c++ 빌드 오류 해결</label>
+        <label><input type="checkbox" c hecked> 알고리즘</label>
         <label><input type="checkbox" c hecked> 서피스 세팅</label>
-        <label><input type="checkbox" c hecked> 파일 다시 다운</label>
-        <label><input type="checkbox" c hecked> vanilla-tilt ts 포팅</label>
         <div class="↑ TODO"></div>
       </div>
     </td>
