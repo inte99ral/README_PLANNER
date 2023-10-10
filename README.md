@@ -93,27 +93,48 @@
     <td class="2023-10-4"><div class="day"><h2 class="date">4</h2><label><input type="checkbox" checked>[08:00] 모닝 커피 & 음악듣기</label><label><input type="checkbox" checked>[13:00] 점심 : 신라면 feat.참치</label><label><input type="checkbox" checked>[20:00] 듀얼 악귀 지옥의 마탄환 쇼</label><label><input type="checkbox" checked>[22:00] 뮤즈 대쉬</label><div class="↑ DONE"></div><div class="↑ TODO"></div><img class="sticker" src="./assets/images/2023-10-04.png" style="position: absolute; bottom: 2.5rem; right: 0; height: 10rem"></div></td>
     <td class="2023-10-5"><div class="day"><h2 class="date">5</h2><label><input type="checkbox" checked>[07:30] 모닝 커피 & 음악듣기</label><label><input type="checkbox" checked>[08:00] 플래너 그래프 수정</label><label><input type="checkbox" checked>[13:00] 점심 : 감자칩 바베큐맛</label><label><input type="checkbox" checked>[15:00] 파일 다시 다운</label><label><input type="checkbox" checked>[17:00] 저녁 : 삼계탕</label><label><input type="checkbox" checked>[19:00] 플레이리스트 정리</label><div class="↑ DONE" style="flex-grow: 1;"></div><div class="↑ TODO"></div></div></td>
     <td class="2023-10-6"><div class="day"><h2 class="date">6</h2><label><input type="checkbox" checked>[07:30] 모닝 커피 & 음악듣기</label><label><input type="checkbox" checked>[12:00] 점심 : 치킨</label><label><input type="checkbox" checked>[17:00] 저녁 : 치킨 + 포도</label><div class="↑ DONE" style="flex-grow: 1;"></div><div class="↑ TODO"></div></div></td>
-    <td class="2023-10-7">
-      <div class="day">
-        <h2 class="date weekend">7</h2>
-        <label><input type="checkbox" checked>[12:30] 꿀잠</label><div class="↑ DONE" style="flex-grow: 1;"></div>
-        <label><input type="checkbox" c hecked> vs code c++ 빌드 오류 해결</label>
-        <label><input type="checkbox" c hecked> 알고리즘</label>
-        <label><input type="checkbox" c hecked> 서피스 세팅</label>
-        <div class="↑ TODO"></div>
-      </div>
-    </td>
+    <td class="2023-10-7"><div class="day"><h2 class="date weekend">7</h2><label><input type="checkbox" checked>[12:30] 꿀잠</label><div class="↑ DONE" style="flex-grow: 1;"></div><div class="↑ TODO"></div></div></td>
   </tr>
   <tr>
-    <td class="2023-10-7">
+    <td class="2023-10-8"><div class="day"><h2 class="date weekend">8</h2><label><input type="checkbox" checked>[12:30] 대청소</label><label><input type="checkbox" checked>[15:00] 창고 정리</label><label><input type="checkbox" checked>[20:00] 선풍기 청소</label><div class="↑ DONE" style="flex-grow: 1;"></div><div class="↑ TODO"></div></div></td>
+    <td class="2023-10-9">
       <div class="day">
-        <h2 class="date weekend">7</h2>
-        <label><input type="checkbox" checked>[12:30] 꿀잠</label><div class="↑ DONE" style="flex-grow: 1;"></div>
-        <label><input type="checkbox" c hecked> vs code c++ 빌드 오류 해결</label>
-        <label><input type="checkbox" c hecked> 알고리즘</label>
-        <label><input type="checkbox" c hecked> 서피스 세팅</label>
+        <h2 class="date weekend">9</h2>
+        <div class="date weekend">~ 한글날 ~</div>
+        <label><input type="checkbox" checked>[8:30] 꿀잠</label>
+        <label><input type="checkbox" checked>[9:00] 창고 정리</label>
+        <label><input type="checkbox" checked>[10:00] 방 청소</label>
+        <label><input type="checkbox" checked>[12:00] 점심 : 죽</label>
+        <label><input type="checkbox" checked>[15:00] 세입자 전자레인지 설치 & 방 체크</label>
+        <label><input type="checkbox" checked>[16:00] 구두 & 운동화 A/S</label>
+        <label><input type="checkbox" checked>[17:30] 저녁 : 트레이더스 피자</label>
+        <div class="↑ DONE" style="flex-grow: 1;"></div>
         <div class="↑ TODO"></div>
       </div>
     </td>
+        <td class="2023-10-2"><div class="day">
+        <h2 class="date weekend">2</h2>
+        <label><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label>
+        <div class="↑ DONE"></div>
+        <label><input type="checkbox" c hecked>[09:00]  vs code c++ 빌드 오류 해결</label>
+        <label><input type="checkbox" c hecked> 포트폴리오 사이트</label>
+        <label><input type="checkbox" c hecked> vanilla-tilt 테스트</label>
+        <label><input type="checkbox" c hecked> 알고리즘</label>
+        <label><input type="checkbox" c hecked> 서피스 세팅</label>
+        <div class="↑ TODO"></div>
+        <div class="graph" style="--size-w: 18em; --size-head: 0em; --size-tail: 0em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
+          <div class="graph-head"></div>
+          <p class="graph-title">● 포트폴리오 사이트</p>
+          <p class="graph-progress">10 %</p>
+          <div class="graph-tail"></div>
+        </div>
+        <div class="graph" style="--size-w: 18em; --size-head: 0em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;">
+          <div class="graph-head"></div>
+          <p class="graph-title">● vanilla-tilt 포팅</p>
+          <p class="graph-progress">0 %</p>
+          <div class="graph-tail"></div>
+          </div>
+        </div>
+      </td>
   </tr>
 </table>
