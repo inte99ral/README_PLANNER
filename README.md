@@ -38,6 +38,18 @@
     text-align: center;
   }
 
+  .DONE {
+    display: flex;
+    justify-items: center;
+    gap: 0.5em;
+  }
+
+  .TODO {
+    display: flex;
+    justify-items: center;
+    gap: 0.5em;
+  }
+
   .↑ {
     flex-grow: 1;
   }
@@ -77,6 +89,11 @@
     border-radius: 0 0 0.8em 0;
     background: var(--color-bg);
   }
+
+  .graph-progress {
+    width: 100%;
+    text-align: center;
+  }
 </style>
 <table>
   <tr>
@@ -106,12 +123,12 @@
       <div class="↑ TODO"></div>
       <div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
         <div class="graph-head"></div>
-        <p class="graph-title">10 %</p>
+        <p class="graph-progress">10 %</p>
         <div class="graph-tail"></div>
       </div>
       <div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;">
         <div class="graph-head"></div>
-        <p class="graph-title">10 %</p>
+        <p class="graph-progress">10 %</p>
         <div class="graph-tail"></div>
         </div>
       </div>
@@ -119,24 +136,23 @@
     <td class="2023-10-12">
       <div class="day">
         <h2 class="date">12</h2>
+        <label class="DONE"><input type="checkbox" checked>[08:33] 모닝 커피와 음악</label>
+        <label class="DONE"><input type="checkbox" checked>[10:34] 서피스 세팅</label>
+        <label class="DONE"><input type="checkbox" checked>[14:41] 서피스 세팅</label>
+        <label class="DONE"><input type="checkbox" checked>[18:50] 창고 1층 정리</label>
+        <label class="DONE"><input type="checkbox" c hecked>[20:30] vs code c++ 빌드 오류 해결</label>
         <div class="↑ DONE"></div>
-        <label><input type="checkbox" c hecked> 모닝 커피와 음악</label>
-        <label><input type="checkbox" c hecked> 창고 물건 넣기</label>
         <label><input type="checkbox" c hecked> 넥슨</label>
-        <label><input type="checkbox" c hecked> vs code c++ 빌드 오류 해결</label>
         <label><input type="checkbox" c hecked> 포트폴리오 사이트</label>
-        <label><input type="checkbox" c hecked> vanilla-tilt 테스트</label>
-        <label><input type="checkbox" c hecked> 알고리즘</label>
-        <label><input type="checkbox" c hecked> 서피스 세팅</label>
       <div class="↑ TODO"></div>
       <div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
         <div class="graph-head"></div>
-        <p class="graph-title">? %</p>
+        <p class="graph-progress">10 %</p>
         <div class="graph-tail"></div>
       </div>
       <div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;">
         <div class="graph-head"></div>
-        <p class="graph-title">? %</p>
+        <p class="graph-progress">10 %</p>
         <div class="graph-tail"></div>
         </div>
       </div>
