@@ -115,25 +115,24 @@
     <td class="2023-10-11"><div class="day"><h2 class="date">11</h2><label><input type="checkbox" checked>[11:00] 낮잠 참기 대실패</label><label><input type="checkbox" checked>[13:30] 은행 업무</label><label><input type="checkbox" checked>[14:00] 점심 : 피자</label><label><input type="checkbox" checked>[18:30] 저녁 : 육계장</label><label><input type="checkbox" checked>[21:30] 꿀잠</label><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph-head"></div><p class="graph-progress">10 %</p><div class="graph-tail"></div></div><div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;"><div class="graph-head"></div><p class="graph-progress">10 %</p><div class="graph-tail"></div></div></div></td>
     <td class="2023-10-12"><div class="day"><h2 class="date">12</h2><label class="DONE"><input type="checkbox" checked>[08:33] 모닝 커피와 음악</label><label class="DONE"><input type="checkbox" checked>[14:41] 서피스 세팅</label><label class="DONE"><input type="checkbox" checked>[18:50] 창고 1층 정리</label><label class="DONE"><input type="checkbox" c hecked>[20:30] vs code c++ 빌드 오류 해결</label><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph-head"></div><p class="graph-progress">10 %</p><div class="graph-tail"></div></div><div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;"><div class="graph-head"></div><p class="graph-progress">10 %</p><div class="graph-tail"></div></div></div></td>
     <td class="2023-10-13"><div class="day"><h2 class="date">13</h2><label class="DONE"><input type="checkbox" checked>[08:33] 모닝 커피와 음악</label><label class="DONE"><input type="checkbox" checked>[10:30] 블로그 글 초본</label><label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 비빔면</label><label class="DONE"><input type="checkbox" checked>[14:30] H.C.proj 로고 초안</label><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph-head"></div><p class="graph-progress">11 %</p><div class="graph-tail"></div></div><div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;"><div class="graph-head"></div><p class="graph-progress">15 %</p><div class="graph-tail"></div></div></div></td>
-    <td class="2023-10-14">
+    <td class="2023-10-14"><div class="day"><h2 class="date weekend">14</h2><label class="DONE"><input type="checkbox" checked>[10:30] 꿀잠</label><label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 두부 김치</label><label class="DONE"><input type="checkbox" checked>[15:00] 주간 집 청소</label><label class="DONE"><input type="checkbox" checked>[17:00] 대형 폐기물 처분</label><label class="DONE"><input type="checkbox" checked>[19:20] 저녁 : 후라이드 ZIP 치킨</label><label class="DONE"><input type="checkbox" checked>[20:00] 페그오</label><label class="DONE"><input type="checkbox" checked>[21:00] 블로그 글 정리</label><div class="↑ DONE" /></div><label class="TODO"><input type="checkbox" c hecked>넥슨</label><div class="↑ TODO"></div><div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph-head"></div><p class="graph-progress">12 %</p><div class="graph-tail"></div></div><div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;"><div class="graph-head"></div><p class="graph-progress">16 %</p><div class="graph-tail"></div></div></div></td>
+  </tr>
+  <tr>
+    <td class="2023-10-15">
       <div class="day">
-        <h2 class="date weekend">14</h2>
-        <label class="DONE"><input type="checkbox" checked>[10:30] 꿀잠</label>
-        <label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 두부 김치</label>
-        <label class="DONE"><input type="checkbox" checked>[15:00] 주간 집 청소</label>
-        <label class="DONE"><input type="checkbox" checked>[17:00] 대형 폐기물 처분</label>
-        <label class="DONE"><input type="checkbox" checked>[19:20] 저녁 : 후라이드 ZIP 치킨</label>
-        <label class="DONE"><input type="checkbox" checked>[20:00] 페그오</label>
-        <label class="DONE"><input type="checkbox" checked>[21:00] 블로그 글 정리</label>
-        <div class="↑ DONE" /></div>
+        <h2 class="date weekend">15</h2>
+        <label class="DONE"><input type="checkbox" checked>[08:30] 꿀잠</label>
+        <label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 남은 치킨</label>
+        <label class="DONE"><input type="checkbox" checked>[16:00] 변기 청소</label>
+        <div class="↑ DONE"></div>
         <label class="TODO"><input type="checkbox" c hecked>넥슨</label>
         <div class="↑ TODO"></div>
-        <div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
+        <div class="graph" style="--size-w: 18em; --size-head: 18em; --size-tail: 0em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
           <div class="graph-head"></div>
           <p class="graph-progress">12 %</p>
           <div class="graph-tail"></div>
         </div>
-        <div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;">
+        <div class="graph" style="--size-w: 18em; --size-head: 18em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;">
           <div class="graph-head"></div>
           <p class="graph-progress">16 %</p>
           <div class="graph-tail"></div>
