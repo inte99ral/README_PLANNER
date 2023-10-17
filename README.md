@@ -139,5 +139,18 @@
         </div>
       </div>
     </td>
+    <td class="2023-10-15">
+      <div class="day">
+        <h2 class="date weekend">15</h2>
+        <label class="DONE"><input type="checkbox" checked>[08:30] 모닝 커피</label>
+        <label class="DONE"><input type="checkbox" checked>[10:30] 인터폰 주문</label>
+        <label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 푸라면</label>
+        <label class="DONE"><input type="checkbox" checked>[16:43] 블로그 글</label>
+        <label class="DONE"><input type="checkbox" checked>[17:50] 저녁 : 김치볶음밥</label>
+        <div class="↑ DONE"></div>
+        <label class="TODO"><input type="checkbox" c hecked>넥슨</label>
+        <div class="↑ TODO"></div>
+      </div>
+    </td>
   </tr>
 </table>
