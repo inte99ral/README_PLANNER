@@ -136,11 +136,19 @@
     <td class="2023-10-19">
       <div class="day">
         <h2 class="date">19</h2>
+        <label class="DONE"><input type="checkbox" checked>[08:00] 모닝 커피 & 음악 감상</label>
+        <label class="DONE"><input type="checkbox" checked>[10:00] 플래너 템플릿 변경</label>
+        <label class="DONE"><input type="checkbox" checked>[12:00] 점심 : 비빔면 & 참치 & 초콜릿</label>
         <div class="↑ DONE"></div>
-        <label class="TODO"><input type="checkbox" c hecked>모닝 커피 & 음악 감상</label>
         <label class="TODO"><input type="checkbox" c hecked>링피트 1 사이클</label>
-        <label class="TODO"><input type="checkbox" c hecked>신발 AS</label>
-        <label class="TODO"><input type="checkbox" c hecked>댄스러시</label>
+        <div class="↑ TODO"></div>
+      </div>
+    </td>
+    <td class="2023-10-20">
+      <div class="day">
+        <h2 class="date">20</h2>
+        <div class="↑ DONE"></div>
+        <label class="TODO"><input type="checkbox" c hecked>인터폰 설치</label>
         <div class="↑ TODO"></div>
       </div>
     </td>

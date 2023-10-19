@@ -73,6 +73,8 @@
     border-radius: 0.8em;
     background: var(--color-bg);
     color: var(--color-txt);
+
+    z-index: var(--index);
   }
 
   .graph-head {
@@ -104,13 +106,13 @@
 <table>
   <tr><th class="week weekend"> Sun </th><th class="week"> Mon </th><th class="week"> Tue </th><th class="week"> Wed </th><th class="week"> Thu </th><th class="week"> Fri </th><th class="week weekend"> Sat </th></tr>
   <tr>
-    <td class="xxxx-xx-x" colspan="3" style="">
+    <td class="xxxx-xx-x" colspan="4" style="">
     <td class="20xx-xx-01">
       <div class="day">
         <h2 class="date">01</h2>
         <label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label>
         <div class="↑ DONE"></div>
-        <label><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label>
+        <label class="TODO"><input type="checkbox" c hecked>아침 : 커피 & 음악감상</label>
         <div class="↑ TODO"></div>
         <div class="graph" style="--size-w: 18em; --size-head: 0em; --size-tail: 2em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
           <div class="graph-head"></div>
@@ -122,19 +124,43 @@
     <td class="20xx-xx-02">
       <div class="day">
         <h2 class="date">02</h2>
+        <div class="date weekend">~ 공휴일 ~</div>
         <label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label>
         <div class="↑ DONE"></div>
         <div class="↑ TODO"></div>
-        <div class="graph" style="--size-w: 18em; --size-head: 21em; --size-tail: 0em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
+        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
           <div class="graph-head"></div>
           <p class="graph-progress">10 %</p>
           <div class="graph-tail"></div>
         </div>
-        <div class="graph" style="--size-w: 18em; --size-head: 0em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;">
+        <div class="graph" style="--index: 0; --size-w: 16em; --size-head: 0em; --size-tail: 4em; --color-bg: #FFD400; --color-txt: #000000;">
           <div class="graph-head"></div>
           <p class="graph-title">● 할 일 2</p>
           <div class="graph-tail"></div>
         </div>
+      </div>
+    </td>
+    <td class="20xx-xx-03">
+      <div class="day">
+        <h2 class="date weekend">03</h2>
+        <div class="↑ DONE"></div>
+        <div class="↑ TODO"></div>
+        <div class="graph" style="--index: 0; --size-w: 18em; --size-head: 23em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;">
+          <div class="graph-head"></div>
+          <p class="graph-progress">5 %</p>
+          <div class="graph-tail"></div>
+        </div>
+        <div class="graph" style="--index: 0; --size-w: 18em; --size-head: 21em; --size-tail: 0em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
+          <div class="graph-head"></div>
+          <p class="graph-progress">15 %</p>
+          <div class="graph-tail"></div>
+        </div>
+        <div class="graph" style="--size-w: 18em; --size-head: 0em; --size-tail: 0em; --color-bg: #9BD0B7; --color-txt: #000000;">
+          <div class="graph-head"></div>
+          <p class="graph-title">● 할 일 3</p>
+          <div class="graph-tail"></div>
+        </div>
+        <img class="sticker" src="./assets/images/20xx-xx-03.png" style="position: absolute; top: 6rem; left: 0; height: 10rem"></div>
       </div>
     </td>
   </tr>
