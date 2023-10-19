@@ -140,7 +140,6 @@
         <label class="DONE"><input type="checkbox" checked>[10:00] 플래너 템플릿 변경</label>
         <label class="DONE"><input type="checkbox" checked>[12:00] 점심 : 비빔면 & 참치 & 초콜릿</label>
         <div class="↑ DONE"></div>
-        <label class="TODO"><input type="checkbox" c hecked>링피트 1 사이클</label>
         <div class="↑ TODO"></div>
       </div>
     </td>
@@ -149,6 +148,7 @@
         <h2 class="date">20</h2>
         <div class="↑ DONE"></div>
         <label class="TODO"><input type="checkbox" c hecked>인터폰 설치</label>
+        <label class="TODO"><input type="checkbox" c hecked>링피트 1 사이클</label>
         <div class="↑ TODO"></div>
       </div>
     </td>
