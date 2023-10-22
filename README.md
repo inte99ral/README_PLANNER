@@ -122,34 +122,24 @@
     <td class="2023-10-15"><div class="day"><h2 class="date weekend">15</h2><label class="DONE"><input type="checkbox" checked>[08:30] 꿀잠</label><label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 남은 치킨</label><label class="DONE"><input type="checkbox" checked>[16:00] 변기 청소</label><div class="↑ DONE"></div><label class="TODO"><input type="checkbox" c hecked>넥슨</label><div class="↑ TODO"></div><div class="graph" style="--size-w: 18em; --size-head: 18em; --size-tail: 0em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph-head"></div><p class="graph-progress">12 %</p><div class="graph-tail"></div></div><div class="graph" style="--size-w: 18em; --size-head: 18em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;"><div class="graph-head"></div><p class="graph-progress">16 %</p><div class="graph-tail"></div></div></div></td>
     <td class="2023-10-16"><div class="day"><h2 class="date">16</h2><div class="↑ DONE"></div><div class="↑ TODO"></div><img class="sticker" src="./assets/images/2023-10-04.png" style="position: absolute; bottom: 2.5rem; right: 0; height: 10rem"></div></td>
     <td class="2023-10-17"><div class="day"><h2 class="date">17</h2><label class="DONE"><input type="checkbox" checked>[08:30] 모닝 커피</label><label class="DONE"><input type="checkbox" checked>[10:30] 인터폰 주문</label><label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 푸라면</label><label class="DONE"><input type="checkbox" checked>[16:43] 블로그 글</label><label class="DONE"><input type="checkbox" checked>[17:50] 저녁 : 김치볶음밥</label><div class="↑ DONE"></div><div class="↑ TODO"></div></div></td>
-    <td class="2023-10-18">
+    <td class="2023-10-18"><div class="day"><h2 class="date">18</h2><label class="DONE"><input type="checkbox" checked>[08:30] 모닝 커피</label><label class="DONE"><input type="checkbox" checked>[10:00] 인터폰 주문 수정</label><label class="DONE"><input type="checkbox" checked>[11:00] 보험비 처리</label><label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 푸라면 참치볶음</label><div class="↑ DONE"></div><div class="↑ TODO"></div></div></td>
+    <td class="2023-10-19"><div class="day"><h2 class="date">19</h2><label class="DONE"><input type="checkbox" checked>[08:00] 모닝 커피 & 음악 감상</label><label class="DONE"><input type="checkbox" checked>[10:00] 플래너 템플릿 변경</label><label class="DONE"><input type="checkbox" checked>[12:00] 점심 : 비빔면 & 참치 & 초콜릿</label><div class="↑ DONE"></div><div class="↑ TODO"></div></div></td>
+    <td class="2023-10-20"><div class="day"><h2 class="date">20</h2><label class="DONE"><input type="checkbox" checked>[12:00] 점심 : 츄러스</label><label class="DONE"><input type="checkbox" checked>[14:00] 인터폰 설치</label><div class="↑ DONE"></div><div class="↑ TODO"></div></div></td>
+    <td class="2023-10-21"><div class="day"><h2 class="date weekend">21</h2><label class="DONE"><input type="checkbox" checked>[12:00] 주말 꿀잠</label><label class="DONE"><input type="checkbox" checked>[13:00] 점심 : 초콜릿 무스 초코칩 컵케익</label><label class="DONE"><input type="checkbox" checked>[14:00] 블로그 정리</label><label class="DONE"><input type="checkbox" checked>[16:00] 페그오</label><label class="DONE"><input type="checkbox" checked>[18:00] 저녁 : 바삭한 김치전</label><label class="DONE"><input type="checkbox" checked>[21:00] 우분투 서버 공부</label><div class="↑ DONE"></div><div class="↑ TODO"></div></div></td>
+  </tr>
+  <tr>
+    <td class="2023-10-21">
       <div class="day">
-        <h2 class="date">18</h2>
-        <label class="DONE"><input type="checkbox" checked>[08:30] 모닝 커피</label>
-        <label class="DONE"><input type="checkbox" checked>[10:00] 인터폰 주문 수정</label>
-        <label class="DONE"><input type="checkbox" checked>[11:00] 보험비 처리</label>
-        <label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 푸라면 참치볶음</label>
+        <h2 class="date weekend">22</h2>
+        <label class="DONE"><input type="checkbox" checked>[12:00] 주말 꿀잠</label>
+        <label class="DONE"><input type="checkbox" checked>[13:00] 점심 : 과자와 우유</label>
+        <label class="DONE"><input type="checkbox" checked>[14:00] 블로그 정리</label>
+        <label class="DONE"><input type="checkbox" checked>[16:00] 페그오</label>
+        <label class="DONE"><input type="checkbox" checked>[18:00] 저녁 : 바삭한 김치전</label>
+        <label class="DONE"><input type="checkbox" checked>[21:00] 우분투 서버 공부</label>
         <div class="↑ DONE"></div>
-        <div class="↑ TODO"></div>
-      </div>
-    </td>
-    <td class="2023-10-19">
-      <div class="day">
-        <h2 class="date">19</h2>
-        <label class="DONE"><input type="checkbox" checked>[08:00] 모닝 커피 & 음악 감상</label>
-        <label class="DONE"><input type="checkbox" checked>[10:00] 플래너 템플릿 변경</label>
-        <label class="DONE"><input type="checkbox" checked>[12:00] 점심 : 비빔면 & 참치 & 초콜릿</label>
-        <div class="↑ DONE"></div>
-        <div class="↑ TODO"></div>
-      </div>
-    </td>
-    <td class="2023-10-20">
-      <div class="day">
-        <h2 class="date">20</h2>
-        <label class="DONE"><input type="checkbox" checked>[12:00] 점심 : 츄러스</label>
-        <label class="DONE"><input type="checkbox" checked>[14:00] 인터폰 설치</label>
-        <div class="↑ DONE"></div>
-        <label class="TODO"><input type="checkbox" c hecked>링피트 1 사이클</label>
+        <label class="TODO"><input type="checkbox" c hecked>주말 청소</label>
+        <label class="TODO"><input type="checkbox" c hecked>알고리즘 풀이</label>
         <div class="↑ TODO"></div>
       </div>
     </td>
