@@ -128,15 +128,27 @@
     <td class="2023-10-21"><div class="day"><h2 class="date weekend">21</h2><label class="DONE"><input type="checkbox" checked>[12:00] 주말 꿀잠</label><label class="DONE"><input type="checkbox" checked>[13:00] 점심 : 초콜릿 무스 초코칩 컵케익</label><label class="DONE"><input type="checkbox" checked>[14:00] 블로그 정리</label><label class="DONE"><input type="checkbox" checked>[16:00] 페그오</label><label class="DONE"><input type="checkbox" checked>[18:00] 저녁 : 바삭한 김치전</label><label class="DONE"><input type="checkbox" checked>[21:00] 우분투 서버 공부</label><div class="↑ DONE"></div><div class="↑ TODO"></div></div></td>
   </tr>
   <tr>
-    <td class="2023-10-21">
+    <td class="2023-10-22">
       <div class="day">
         <h2 class="date weekend">22</h2>
         <label class="DONE"><input type="checkbox" checked>[12:00] 주말 꿀잠</label>
         <label class="DONE"><input type="checkbox" checked>[13:00] 점심 : 과자와 우유</label>
         <label class="DONE"><input type="checkbox" checked>[14:00] 주말 청소 & 분리수거</label>
         <label class="DONE"><input type="checkbox" checked>[15:30] 티타임</label>
+        <label class="DONE"><input type="checkbox" checked>[18:30] 저녁 : 카레</label>
+        <label class="DONE"><input type="checkbox" checked>[20:00] 알고리즘 풀이</label>
         <div class="↑ DONE"></div>
-        <label class="TODO"><input type="checkbox" c hecked>알고리즘 풀이</label>
+        <div class="↑ TODO"></div>
+      </div>
+    </td>
+    <td class="2023-10-23">
+      <div class="day">
+        <h2 class="date">23</h2>
+        <label class="DONE"><input type="checkbox" checked>[07:30] 모닝 커피</label>
+        <label class="DONE"><input type="checkbox" checked>[12:00] 점심 : 짜파게티 & 소세지</label>
+        <label class="DONE"><input type="checkbox" checked>[15:30] 티타임</label>
+        <label class="DONE"><input type="checkbox" checked>[20:00] 알고리즘 풀이</label>
+        <div class="↑ DONE"></div>
         <div class="↑ TODO"></div>
       </div>
     </td>
