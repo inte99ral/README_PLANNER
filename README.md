@@ -147,9 +147,14 @@
         <label class="DONE"><input type="checkbox" checked>[07:30] 모닝 커피</label>
         <label class="DONE"><input type="checkbox" checked>[12:00] 점심 : 짜파게티 & 소세지</label>
         <label class="DONE"><input type="checkbox" checked>[15:30] 티타임</label>
-        <label class="DONE"><input type="checkbox" checked>[20:00] 알고리즘 풀이</label>
+        <label class="DONE"><input type="checkbox" checked>[20:00] c++17 문법을 위해 minGW -> w64로 교체 준비중</label>
         <div class="↑ DONE"></div>
         <div class="↑ TODO"></div>
+        <div class="graph" style="--size-w: 18em; --size-head: 0em; --size-tail: 0em; --color-bg: #9BD0B7; --color-txt: #000000;">
+          <div class="graph-head"></div>
+          <p class="graph-title">● minGW-w64</p>
+          <div class="graph-tail"></div>
+        </div>
       </div>
     </td>
   </tr>
