@@ -133,12 +133,9 @@
         <h2 class="date weekend">22</h2>
         <label class="DONE"><input type="checkbox" checked>[12:00] 주말 꿀잠</label>
         <label class="DONE"><input type="checkbox" checked>[13:00] 점심 : 과자와 우유</label>
-        <label class="DONE"><input type="checkbox" checked>[14:00] 블로그 정리</label>
-        <label class="DONE"><input type="checkbox" checked>[16:00] 페그오</label>
-        <label class="DONE"><input type="checkbox" checked>[18:00] 저녁 : 바삭한 김치전</label>
-        <label class="DONE"><input type="checkbox" checked>[21:00] 우분투 서버 공부</label>
+        <label class="DONE"><input type="checkbox" checked>[14:00] 주말 청소 & 분리수거</label>
+        <label class="DONE"><input type="checkbox" checked>[15:30] 티타임</label>
         <div class="↑ DONE"></div>
-        <label class="TODO"><input type="checkbox" c hecked>주말 청소</label>
         <label class="TODO"><input type="checkbox" c hecked>알고리즘 풀이</label>
         <div class="↑ TODO"></div>
       </div>
