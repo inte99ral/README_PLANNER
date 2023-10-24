@@ -167,9 +167,25 @@
         <label class="DONE"><input type="checkbox" checked>[22:00] c++ 공부</label>
         <div class="↑ DONE"></div>
         <div class="↑ TODO"></div>
-        <div class="graph" style="--size-w: 18em; --size-head: 30em; --size-tail: 0em; --color-bg: #9BD0B7; --color-txt: #000000;">
+        <div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #9BD0B7; --color-txt: #000000;">
           <div class="graph-head"></div>
           <p class="graph-progress">20 %</p>
+          <div class="graph-tail"></div>
+        </div>
+      </div>
+    </td>
+    <td class="2023-10-24">
+      <div class="day">
+        <h2 class="date">24</h2>
+        <label class="DONE"><input type="checkbox" c hecked>[07:30] 모닝 커피</label>
+        <div class="↑ DONE"></div>
+        <label class="TODO"><input type="checkbox" c hecked>링피트</label>
+        <label class="TODO"><input type="checkbox" c hecked>gcc 에러 확인</label>
+        <label class="TODO"><input type="checkbox" c hecked>알고리즘</label>
+        <div class="↑ TODO"></div>
+        <div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #9BD0B7; --color-txt: #000000;">
+          <div class="graph-head"></div>
+          <p class="graph-progress">??? %</p>
           <div class="graph-tail"></div>
         </div>
       </div>
