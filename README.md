@@ -161,10 +161,11 @@
       <div class="day">
         <h2 class="date">24</h2>
         <label class="DONE"><input type="checkbox" checked>[07:30] 모닝 커피</label>
+        <label class="DONE"><input type="checkbox" checked>[12:00] 점심 : 치킨</label>
+        <label class="DONE"><input type="checkbox" checked>[18:00] 저녁 : 카레 남은 것</label>
+        <label class="DONE"><input type="checkbox" checked>[20:00] 간식 : 커피 & 초콜릿</label>
         <div class="↑ DONE"></div>
         <label class="TODO"><input type="checkbox" c hecked>알고리즘 풀이</label>
-        <label class="TODO"><input type="checkbox" c hecked>가구 수리</label>
-        <label class="TODO"><input type="checkbox" c hecked>[12:00] 점심 : 치킨</label>
         <div class="↑ TODO"></div>
         <div class="graph" style="--size-w: 18em; --size-head: 30em; --size-tail: 0em; --color-bg: #9BD0B7; --color-txt: #000000;">
           <div class="graph-head"></div>
