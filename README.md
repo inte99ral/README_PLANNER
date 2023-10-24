@@ -182,6 +182,8 @@
         <label class="TODO"><input type="checkbox" c hecked>링피트</label>
         <label class="TODO"><input type="checkbox" c hecked>gcc 에러 확인</label>
         <label class="TODO"><input type="checkbox" c hecked>알고리즘</label>
+        <label class="TODO"><input type="checkbox" c hecked>듀ㅡ얼</label>
+        <label class="TODO"><input type="checkbox" c hecked>손글씨연습</label>
         <div class="↑ TODO"></div>
         <div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #9BD0B7; --color-txt: #000000;">
           <div class="graph-head"></div>
