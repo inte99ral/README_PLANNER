@@ -180,16 +180,16 @@
         <label class="DONE"><input type="checkbox" checked>[07:30] 모닝 커피</label>
         <label class="DONE"><input type="checkbox" checked>[10:30] 손글씨연습</label>
         <label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 짜장라면에 계란후라이</label>
+        <label class="DONE"><input type="checkbox" checked>[14:00] gcc 에러 확인</label>
         <label class="DONE"><input type="checkbox" checked>[16:00] 저녁 : 등뼈묵은지찜</label>
+        <label class="DONE"><input type="checkbox" checked>[21:00] 듀ㅡ얼</label>
         <div class="↑ DONE"></div>
         <label class="TODO"><input type="checkbox" c hecked>링피트</label>
-        <label class="TODO"><input type="checkbox" c hecked>gcc 에러 확인</label>
         <label class="TODO"><input type="checkbox" c hecked>알고리즘</label>
-        <label class="TODO"><input type="checkbox" c hecked>듀ㅡ얼</label>
         <div class="↑ TODO"></div>
         <div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #9BD0B7; --color-txt: #000000;">
           <div class="graph-head"></div>
-          <p class="graph-progress">??? %</p>
+          <p class="graph-progress">80 %</p>
           <div class="graph-tail"></div>
         </div>
       </div>
@@ -197,15 +197,31 @@
     <td class="2023-10-26">
       <div class="day">
         <h2 class="date">26</h2>
+        <label class="DONE"><input type="checkbox" checked>[07:30] 아침 : 시리얼</label>
+        <label class="DONE"><input type="checkbox" checked>[07:30] 점심 : 요거트</label>
+        <label class="DONE"><input type="checkbox" checked>[18:30] 저녁 : 등뼈묵은지찜</label>
+        <label class="DONE"><input type="checkbox" checked>[20:00] 알고리즘 : BJ1000</label>
         <div class="↑ DONE"></div>
-        <label class="TODO"><input type="checkbox" c hecked>점심 시리얼</label>
         <label class="TODO"><input type="checkbox" c hecked>링피트</label>
         <div class="↑ TODO"></div>
         <div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #9BD0B7; --color-txt: #000000;">
           <div class="graph-head"></div>
-          <p class="graph-progress">??? %</p>
+          <p class="graph-progress">100 %</p>
           <div class="graph-tail"></div>
         </div>
+      </div>
+    </td>
+    <td class="2023-10-27">
+      <div class="day">
+        <h2 class="date">27</h2>
+        <label class="DONE"><input type="checkbox" checked>[07:30] 아침 : 오예스</label>
+        <label class="DONE"><input type="checkbox" checked>[10:00] 링피트</label>
+        <label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 안성탕면</label>
+        <label class="DONE"><input type="checkbox" checked>[14:00] 머리깎기</label>
+        <label class="DONE"><input type="checkbox" checked>[20:30] 저녁 : 치즈스파게티</label>
+        <label class="DONE"><input type="checkbox" checked>[23:00] 마스크팩</label>
+        <div class="↑ DONE"></div>
+        <div class="↑ TODO"></div>
       </div>
     </td>
   </tr>
