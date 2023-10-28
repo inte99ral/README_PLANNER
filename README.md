@@ -224,5 +224,16 @@
         <div class="↑ TODO"></div>
       </div>
     </td>
+    <td class="2023-10-28">
+      <div class="day">
+        <h2 class="date weekend">28</h2>
+        <label class="DONE"><input type="checkbox" checked>[11:00] 꿀잠</label>
+        <label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 시리얼 요거트</label>
+        <label class="DONE"><input type="checkbox" checked>[20:30] 저녁 : 치즈스파게티</label>
+        <label class="DONE"><input type="checkbox" checked>[23:00] 마스크팩</label>
+        <div class="↑ DONE"></div>
+        <div class="↑ TODO"></div>
+      </div>
+    </td>
   </tr>
 </table>
