@@ -236,4 +236,18 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td class="2023-10-29">
+      <div class="day">
+        <h2 class="date weekend">29</h2>
+        <label class="DONE"><input type="checkbox" checked>[11:00] 꿀잠</label>
+        <label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 커피 & 오예스</label>
+        <label class="DONE"><input type="checkbox" checked>[13:30] 포트폴리오</label>
+        <label class="DONE"><input type="checkbox" checked>[17:30] 빵축제</label>
+        <label class="DONE"><input type="checkbox" checked>[18:30] 저녁 : 타코야끼 & 초코도넛</label>
+        <div class="↑ DONE"></div>
+        <div class="↑ TODO"></div>
+      </div>
+    </td>
+  </tr>
 </table>
