@@ -17,6 +17,10 @@
     --color-red: #FF8E99;
   }
 
+  .xxxx-xx-x {
+    background-color: #D5E1DF;
+  }
+
   .week {
     width: 20em;
     min-width: 20em;
@@ -224,16 +228,29 @@
     </td>
     <td class="2023-10-30">
       <div class="day">
-        <h2 class="date">10</h2>
+        <h2 class="date">30</h2>
         <label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label>
         <label class="DONE"><input type="checkbox" checked>[10:00] 우마무스메</label>
         <label class="DONE"><input type="checkbox" checked>[12:00] 점심 : 라면</label>
-        <label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label>
+        <label class="DONE"><input type="checkbox" checked>[17:40] 저녁 : 두부 김치</label>
         <div class="↑ DONE"></div>
         <div class="↑ TODO"></div>
         <div class="graph" style="--size-w: 18em; --size-head: 0em; --size-tail: 0em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph-head"></div><p class="graph-title">● 포트폴리오 사이트</p><div class="graph-tail"></div></div>
         <div class="graph" style="--size-w: 18em; --size-head: 0em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;"><div class="graph-head"></div><p class="graph-title">● vanilla-tilt 포팅</p><div class="graph-tail"></div></div>
       </div>
     </td>
+    <td class="2023-10-31">
+      <div class="day">
+        <h2 class="date">31</h2>
+        <label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 시리얼</label>
+        <label class="DONE"><input type="checkbox" checked>[12:00] 점심 : 스팸 후라이 토스트</label>
+        <label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label>
+        <div class="↑ DONE"></div>
+        <div class="↑ TODO"></div>
+        <div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph-head"></div><p class="graph-progress">?? %</p><div class="graph-tail"></div></div>
+        <div class="graph" style="--size-w: 18em; --size-head: 24em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;"><div class="graph-head"></div><p class="graph-progress">?? %</p><div class="graph-tail"></div></div>
+      </div>
+    </td>
+    <td class="xxxx-xx-x" colspan="4" style="">
   </tr>
 </table>
