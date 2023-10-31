@@ -128,35 +128,8 @@
     <td class="2023-10-21"><div class="day"><h2 class="date weekend">21</h2><label class="DONE"><input type="checkbox" checked>[12:00] 주말 꿀잠</label><label class="DONE"><input type="checkbox" checked>[13:00] 점심 : 초콜릿 무스 초코칩 컵케익</label><label class="DONE"><input type="checkbox" checked>[14:00] 블로그 정리</label><label class="DONE"><input type="checkbox" checked>[16:00] 페그오</label><label class="DONE"><input type="checkbox" checked>[18:00] 저녁 : 바삭한 김치전</label><label class="DONE"><input type="checkbox" checked>[21:00] 우분투 서버 공부</label><div class="↑ DONE"></div><div class="↑ TODO"></div></div></td>
   </tr>
   <tr>
-    <td class="2023-10-22">
-      <div class="day">
-        <h2 class="date weekend">22</h2>
-        <label class="DONE"><input type="checkbox" checked>[12:00] 주말 꿀잠</label>
-        <label class="DONE"><input type="checkbox" checked>[13:00] 점심 : 과자와 우유</label>
-        <label class="DONE"><input type="checkbox" checked>[14:00] 주말 청소 & 분리수거</label>
-        <label class="DONE"><input type="checkbox" checked>[15:30] 티타임</label>
-        <label class="DONE"><input type="checkbox" checked>[18:30] 저녁 : 카레</label>
-        <label class="DONE"><input type="checkbox" checked>[20:00] 알고리즘 풀이</label>
-        <div class="↑ DONE"></div>
-        <div class="↑ TODO"></div>
-      </div>
-    </td>
-    <td class="2023-10-23">
-      <div class="day">
-        <h2 class="date">23</h2>
-        <label class="DONE"><input type="checkbox" checked>[07:30] 모닝 커피</label>
-        <label class="DONE"><input type="checkbox" checked>[12:00] 점심 : 짜파게티 & 소세지</label>
-        <label class="DONE"><input type="checkbox" checked>[15:30] 티타임</label>
-        <label class="DONE"><input type="checkbox" checked>[20:00] c++17 문법을 위해 minGW -> w64로 교체 준비중</label>
-        <div class="↑ DONE"></div>
-        <div class="↑ TODO"></div>
-        <div class="graph" style="--size-w: 18em; --size-head: 0em; --size-tail: 0em; --color-bg: #9BD0B7; --color-txt: #000000;">
-          <div class="graph-head"></div>
-          <p class="graph-title">● minGW-w64</p>
-          <div class="graph-tail"></div>
-        </div>
-      </div>
-    </td>
+    <td class="2023-10-22"><div class="day"><h2 class="date weekend">22</h2><label class="DONE"><input type="checkbox" checked>[12:00] 주말 꿀잠</label><label class="DONE"><input type="checkbox" checked>[13:00] 점심 : 과자와 우유</label><label class="DONE"><input type="checkbox" checked>[14:00] 주말 청소 & 분리수거</label><label class="DONE"><input type="checkbox" checked>[15:30] 티타임</label><label class="DONE"><input type="checkbox" checked>[18:30] 저녁 : 카레</label><label class="DONE"><input type="checkbox" checked>[20:00] 알고리즘 풀이</label><div class="↑ DONE"></div><div class="↑ TODO"></div></div></td>
+    <td class="2023-10-23"><div class="day"><h2 class="date">23</h2><label class="DONE"><input type="checkbox" checked>[07:30] 모닝 커피</label><label class="DONE"><input type="checkbox" checked>[12:00] 점심 : 짜파게티 & 소세지</label><label class="DONE"><input type="checkbox" checked>[15:30] 티타임</label><label class="DONE"><input type="checkbox" checked>[20:00] c++17 문법을 위해 minGW -> w64로 교체 준비중</label><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--size-w: 18em; --size-head: 0em; --size-tail: 0em; --color-bg: #9BD0B7; --color-txt: #000000;"><div class="graph-head"></div><p class="graph-title">● minGW-w64</p><div class="graph-tail"></div></div></div></td>
     <td class="2023-10-24">
       <div class="day">
         <h2 class="date">24</h2>
@@ -247,6 +220,19 @@
         <label class="DONE"><input type="checkbox" checked>[18:30] 저녁 : 타코야끼 & 초코도넛</label>
         <div class="↑ DONE"></div>
         <div class="↑ TODO"></div>
+      </div>
+    </td>
+    <td class="2023-10-30">
+      <div class="day">
+        <h2 class="date">10</h2>
+        <label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label>
+        <label class="DONE"><input type="checkbox" checked>[10:00] 우마무스메</label>
+        <label class="DONE"><input type="checkbox" checked>[12:00] 점심 : 라면</label>
+        <label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label>
+        <div class="↑ DONE"></div>
+        <div class="↑ TODO"></div>
+        <div class="graph" style="--size-w: 18em; --size-head: 0em; --size-tail: 0em; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph-head"></div><p class="graph-title">● 포트폴리오 사이트</p><div class="graph-tail"></div></div>
+        <div class="graph" style="--size-w: 18em; --size-head: 0em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;"><div class="graph-head"></div><p class="graph-title">● vanilla-tilt 포팅</p><div class="graph-tail"></div></div>
       </div>
     </td>
   </tr>
