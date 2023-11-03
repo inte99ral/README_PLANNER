@@ -160,5 +160,21 @@
         </div>
       </div>
     </td>
+    <td class="2023-11-03">
+      <div class="day">
+        <h2 class="date">03</h2>
+        <label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label>
+        <label class="TODO"><input type="checkbox" checked>[10:00] 알고리즘 : BJ 1244</label>
+        <label class="TODO"><input type="checkbox" checked>[12:00] 점심 : 짜장라면</label>
+        <label class="TODO"><input type="checkbox" checked>[18:00] 저녁 : 떡국</label>
+        <div class="↑ DONE"></div>
+        <div class="↑ TODO"></div>
+        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
+          <div class="graph-head"></div>
+          <p class="graph-progress">20 %</p>
+          <div class="graph-tail"></div>
+        </div>
+      </div>
+    </td>
   </tr>
 </table>
