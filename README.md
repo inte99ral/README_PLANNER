@@ -168,8 +168,9 @@
     <td class="2023-11-05">
       <div class="day">
         <h2 class="date weekend">05</h2>
-        <label class="TODO"><input type="checkbox" checked>[10:00] 추도예배</label>
-        <label class="TODO"><input type="checkbox" checked>[12:30] 점심 : 안성탕면</label>
+        <label class="DONE"><input type="checkbox" checked>[10:00] 아침 시리얼</label>
+        <label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 안성탕면</label>
+        <label class="DONE"><input type="checkbox" checked>[15:00] 메일함 정리</label>
         <div class="↑ DONE"></div>
         <div class="↑ TODO"></div>
         <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 18em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
