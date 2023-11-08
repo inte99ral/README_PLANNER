@@ -180,6 +180,43 @@
         </div>
       </div>
     </td>
+    <td class="2023-11-06">
+      <div class="day">
+        <h2 class="date">06</h2>
+        <div class="↑ DONE"></div>
+        <div class="↑ TODO"></div>
+        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
+          <div class="graph-head"></div>
+          <p class="graph-progress">24 %</p>
+          <div class="graph-tail"></div>
+        </div>
+      </div>
+    </td>
+    <td class="2023-11-07">
+      <div class="day">
+        <h2 class="date">07</h2>
+        <div class="↑ DONE"></div>
+        <div class="↑ TODO"></div>
+        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
+          <div class="graph--head"></div>
+          <p class="graph-progress">25 %</p>
+          <div class="graph-tail"></div>
+        </div>
+      </div>
+    </td>
+    <td class="2023-11-08">
+      <div class="day">
+        <h2 class="date">08</h2>
+        <label class="DONE"><input type="checkbox" checked>[10:00] 아침 시리얼</label>
+        <div class="↑ DONE"></div>
+        <div class="↑ TODO"></div>
+        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
+          <div class="graph--head"></div>
+          <p class="graph-progress">26 %</p>
+          <div class="graph-tail"></div>
+        </div>
+      </div>
+    </td>
   <tr>
   </tr>
 </table>
