@@ -217,6 +217,44 @@
         </div>
       </div>
     </td>
+    <td class="2023-11-09">
+      <div class="day">
+        <h2 class="date">09</h2>
+        <label class="DONE"><input type="checkbox" checked>[12:00] 점심 : 진라면</label>
+        <div class="↑ DONE"></div>
+        <div class="↑ TODO"></div>
+        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
+          <div class="graph--head"></div>
+          <p class="graph-progress">27 %</p>
+          <div class="graph-tail"></div>
+        </div>
+      </div>
+    </td>
+    <td class="2023-11-10">
+      <div class="day">
+        <h2 class="date">10</h2>
+        <div class="↑ DONE"></div>
+        <div class="↑ TODO"></div>
+        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
+          <div class="graph--head"></div>
+          <p class="graph-progress">28 %</p>
+          <div class="graph-tail"></div>
+        </div>
+      </div>
+    </td>
+    <td class="2023-11-11">
+      <div class="day">
+        <h2 class="date">11</h2>
+        <label class="DONE"><input type="checkbox" checked>[14:00] 블루 자이언트 영화 관람</label>
+        <div class="↑ DONE"></div>
+        <div class="↑ TODO"></div>
+        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
+          <div class="graph--head"></div>
+          <p class="graph-progress">29 %</p>
+          <div class="graph-tail"></div>
+        </div>
+      </div>
+    </td>
   <tr>
   </tr>
 </table>
