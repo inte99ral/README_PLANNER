@@ -129,69 +129,11 @@
     <td class="xxxx-xx-x" colspan="3" style="">
     <td class="2023-11-01"><div class="day"><h2 class="date">01</h2><label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label><label class="DONE"><input type="checkbox" checked>[15:08] 바닐라 틸트 적용</label><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 0em; --size-tail: 2.5rem; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph-head"></div><p class="graph-title">● 포트폴리오 프론트 페이지</p><div class="graph--tail"></div></div><div class="graph" style="--index: 0; --size-w: 16em; --size-head: 0em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;"><div class="graph--head"></div><p class="graph-title">● vanilla-tilt 포팅</p><div class="graph-tail"></div></div></div></td>
     <td class="2023-11-02"><div class="day"><h2 class="date">02</h2><label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label><div class="↑ DONE"></div><label class="TODO"><input type="checkbox" c hecked>알고리즘 풀이</label><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph--head"></div><p class="graph-progress">20 %</p><div class="graph-tail"></div></div></div></td>
-    <td class="2023-11-03">
-      <div class="day">
-        <h2 class="date">03</h2>
-        <label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label>
-        <label class="TODO"><input type="checkbox" checked>[10:00] 알고리즘 : BJ 1244</label>
-        <label class="TODO"><input type="checkbox" checked>[12:00] 점심 : 짜장라면</label>
-        <label class="TODO"><input type="checkbox" checked>[18:00] 저녁 : 떡국</label>
-        <div class="↑ DONE"></div>
-        <div class="↑ TODO"></div>
-        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
-          <div class="graph-head"></div>
-          <p class="graph-progress">21%</p>
-          <div class="graph-tail"></div>
-        </div>
-      </div>
-    </td>
-    <td class="2023-11-04">
-      <div class="day">
-        <h2 class="date weekend">04</h2>
-        <label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label>
-        <label class="TODO"><input type="checkbox" checked>[10:00] 추도예배</label>
-        <label class="TODO"><input type="checkbox" checked>[12:00] 할아버지 백세연</label>
-        <label class="TODO"><input type="checkbox" checked>[12:30] 점심 : 계룡스파텔</label>
-        <label class="TODO"><input type="checkbox" checked>[15:00] 대청소</label>
-        <label class="TODO"><input type="checkbox" checked>[17:00] 가구 분해 청소</label>
-        <label class="TODO"><input type="checkbox" checked>[18:00] 저녁 : 굴비</label>
-        <div class="↑ DONE"></div>
-        <div class="↑ TODO"></div>
-        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
-          <div class="graph-head"></div>
-          <p class="graph-progress">22 %</p>
-          <div class="graph-tail"></div>
-        </div>
-      </div>
-    </td>
+    <td class="2023-11-03"><div class="day"><h2 class="date">03</h2><label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label><label class="TODO"><input type="checkbox" checked>[10:00] 알고리즘 : BJ 1244</label><label class="TODO"><input type="checkbox" checked>[12:00] 점심 : 짜장라면</label><label class="TODO"><input type="checkbox" checked>[18:00] 저녁 : 떡국</label><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph-head"></div><p class="graph-progress">21%</p><div class="graph-tail"></div></div></div></td>
+    <td class="2023-11-04"><div class="day"><h2 class="date weekend">04</h2><label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label><label class="TODO"><input type="checkbox" checked>[10:00] 추도예배</label><label class="TODO"><input type="checkbox" checked>[12:00] 할아버지 백세연</label><label class="TODO"><input type="checkbox" checked>[12:30] 점심 : 계룡스파텔</label><label class="TODO"><input type="checkbox" checked>[15:00] 대청소</label><label class="TODO"><input type="checkbox" checked>[17:00] 가구 분해 청소</label><label class="TODO"><input type="checkbox" checked>[18:00] 저녁 : 굴비</label><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph-head"></div><p class="graph-progress">22 %</p><div class="graph-tail"></div></div></div></td>
   </tr>
-    <td class="2023-11-05">
-      <div class="day">
-        <h2 class="date weekend">05</h2>
-        <label class="DONE"><input type="checkbox" checked>[10:00] 아침 시리얼</label>
-        <label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 안성탕면</label>
-        <label class="DONE"><input type="checkbox" checked>[15:00] 메일함 정리</label>
-        <div class="↑ DONE"></div>
-        <div class="↑ TODO"></div>
-        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 18em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
-          <div class="graph--head"></div>
-          <p class="graph-progress">23 %</p>
-          <div class="graph-tail"></div>
-        </div>
-      </div>
-    </td>
-    <td class="2023-11-06">
-      <div class="day">
-        <h2 class="date">06</h2>
-        <div class="↑ DONE"></div>
-        <div class="↑ TODO"></div>
-        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
-          <div class="graph-head"></div>
-          <p class="graph-progress">24 %</p>
-          <div class="graph-tail"></div>
-        </div>
-      </div>
-    </td>
+    <td class="2023-11-05"><div class="day"><h2 class="date weekend">05</h2><label class="DONE"><input type="checkbox" checked>[10:00] 아침 시리얼</label><label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 안성탕면</label><label class="DONE"><input type="checkbox" checked>[15:00] 메일함 정리</label><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 18em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph--head"></div><p class="graph-progress">23 %</p><div class="graph-tail"></div></div></div></td>
+    <td class="2023-11-06"><div class="day"><h2 class="date">06</h2><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph-head"></div><p class="graph-progress">24 %</p><div class="graph-tail"></div></div></div></td>
     <td class="2023-11-07">
       <div class="day">
         <h2 class="date">07</h2>
@@ -244,17 +186,56 @@
     </td>
     <td class="2023-11-11">
       <div class="day">
-        <h2 class="date">11</h2>
+        <h2 class="date weekend">11</h2>
         <label class="DONE"><input type="checkbox" checked>[14:00] 블루 자이언트 영화 관람</label>
         <div class="↑ DONE"></div>
         <div class="↑ TODO"></div>
-        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
+        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 1.6rem; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
           <div class="graph--head"></div>
           <p class="graph-progress">29 %</p>
+          <div class="graph--tail"></div>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td class="2023-11-11">
+      <div class="day">
+        <h2 class="date weekend">11</h2>
+        <label class="DONE"><input type="checkbox" checked>[14:00] 블루 자이언트 영화 관람</label>
+        <div class="↑ DONE"></div>
+        <div class="↑ TODO"></div>
+        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 18em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
+          <div class="graph--head"></div>
+          <p class="graph-progress">30 %</p>
           <div class="graph-tail"></div>
         </div>
       </div>
     </td>
-  <tr>
+    <td class="2023-11-12">
+      <div class="day">
+        <h2 class="date">12</h2>
+        <div class="↑ DONE"></div>
+        <div class="↑ TODO"></div>
+        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
+          <div class="graph-head"></div>
+          <p class="graph-progress">31 %</p>
+          <div class="graph-tail"></div>
+        </div>
+      </div>
+    </td>
+    <td class="2023-11-13">
+      <div class="day">
+        <h2 class="date">13</h2>
+        <label class="DONE"><input type="checkbox" checked>[14:00] 블루 자이언트 영화 관람</label>
+        <div class="↑ DONE"></div>
+        <div class="↑ TODO"></div>
+        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
+          <div class="graph-head"></div>
+          <p class="graph-progress">32 %</p>
+          <div class="graph-tail"></div>
+        </div>
+      </div>
+    </td>
   </tr>
 </table>
