@@ -1,4 +1,4 @@
-<h1>2023. 11</h1>
+<h1>2024. 2</h1>
 
 <style>
   @font-face {
@@ -19,7 +19,7 @@
   }
 
   .xxxx-xx-x {
-    background-color: #D5E1DF;
+    background-color: #000000;
   }
 
   .week {
@@ -126,142 +126,19 @@
 <table>
   <tr><th class="week weekend"> Sun </th><th class="week"> Mon </th><th class="week"> Tue </th><th class="week"> Wed </th><th class="week"> Thu </th><th class="week"> Fri </th><th class="week weekend"> Sat </th></tr>
   <tr>
-    <td class="xxxx-xx-x" colspan="3">
-    <td class="2023-11-01"><div class="day"><h2 class="date">01</h2><label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label><label class="DONE"><input type="checkbox" checked>[15:08] 바닐라 틸트 적용</label><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 0em; --size-tail: 2.5rem; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph-head"></div><p class="graph-title">● 포트폴리오 프론트 페이지</p><div class="graph--tail"></div></div><div class="graph" style="--index: 0; --size-w: 16em; --size-head: 0em; --size-tail: 0em; --color-bg: #FFD400; --color-txt: #000000;"><div class="graph--head"></div><p class="graph-title">● vanilla-tilt 포팅</p><div class="graph-tail"></div></div></div></td>
-    <td class="2023-11-02"><div class="day"><h2 class="date">02</h2><label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label><div class="↑ DONE"></div><label class="TODO"><input type="checkbox" c hecked>알고리즘 풀이</label><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph--head"></div><p class="graph-progress">20 %</p><div class="graph-tail"></div></div></div></td>
-    <td class="2023-11-03"><div class="day"><h2 class="date">03</h2><label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label><label class="TODO"><input type="checkbox" checked>[10:00] 알고리즘 : BJ 1244</label><label class="TODO"><input type="checkbox" checked>[12:00] 점심 : 짜장라면</label><label class="TODO"><input type="checkbox" checked>[18:00] 저녁 : 떡국</label><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph-head"></div><p class="graph-progress">21%</p><div class="graph-tail"></div></div></div></td>
-    <td class="2023-11-04"><div class="day"><h2 class="date weekend">04</h2><label class="DONE"><input type="checkbox" checked>[07:40] 아침 : 커피 & 음악감상</label><label class="TODO"><input type="checkbox" checked>[10:00] 추도예배</label><label class="TODO"><input type="checkbox" checked>[12:00] 할아버지 백세연</label><label class="TODO"><input type="checkbox" checked>[12:30] 점심 : 계룡스파텔</label><label class="TODO"><input type="checkbox" checked>[15:00] 대청소</label><label class="TODO"><input type="checkbox" checked>[17:00] 가구 분해 청소</label><label class="TODO"><input type="checkbox" checked>[18:00] 저녁 : 굴비</label><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph-head"></div><p class="graph-progress">22 %</p><div class="graph-tail"></div></div></div></td>
-  </tr>
-    <td class="2023-11-05"><div class="day"><h2 class="date weekend">05</h2><label class="DONE"><input type="checkbox" checked>[10:00] 아침 시리얼</label><label class="DONE"><input type="checkbox" checked>[12:30] 점심 : 안성탕면</label><label class="DONE"><input type="checkbox" checked>[15:00] 메일함 정리</label><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 18em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph--head"></div><p class="graph-progress">23 %</p><div class="graph-tail"></div></div></div></td>
-    <td class="2023-11-06"><div class="day"><h2 class="date">06</h2><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph-head"></div><p class="graph-progress">24 %</p><div class="graph-tail"></div></div></div></td>
-    <td class="2023-11-07"><div class="day"><h2 class="date">07</h2><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph--head"></div><p class="graph-progress">25 %</p><div class="graph-tail"></div></div></div></td>
-    <td class="2023-11-08"><div class="day"><h2 class="date">08</h2><label class="DONE"><input type="checkbox" checked>[10:00] 아침 시리얼</label><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph--head"></div><p class="graph-progress">26 %</p><div class="graph-tail"></div></div></div></td>
-    <td class="2023-11-09"><div class="day"><h2 class="date">09</h2><label class="DONE"><input type="checkbox" checked>[12:00] 점심 : 진라면</label><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph--head"></div><p class="graph-progress">27 %</p><div class="graph-tail"></div></div></div></td>
-    <td class="2023-11-10"><div class="day"><h2 class="date">10</h2><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph--head"></div><p class="graph-progress">28 %</p><div class="graph-tail"></div></div></div></td>
-    <td class="2023-11-11"><div class="day"><h2 class="date weekend">11</h2><label class="DONE"><input type="checkbox" checked>[14:00] 블루 자이언트 영화 관람</label><div class="↑ DONE"></div><div class="↑ TODO"></div><div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 1.6rem; --color-bg: #A3B6C9; --color-txt: #FFFFFF;"><div class="graph--head"></div><p class="graph-progress">29 %</p><div class="graph--tail"></div></div></div></td></tr><tr>
-    <td class="2023-11-12">
-      <div class="day">
-        <h2 class="date weekend">12</h2>
-        <label class="DONE"><input type="checkbox" checked>[14:00] 블루 자이언트 영화 관람</label>
-        <div class="↑ DONE"></div>
-        <div class="↑ TODO"></div>
-        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 18em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
-          <div class="graph--head"></div>
-          <p class="graph-progress">30 %</p>
-          <div class="graph-tail"></div>
-        </div>
-      </div>
-    </td>
-    <td class="2023-11-13">
-      <div class="day">
-        <h2 class="date">13</h2>
-        <div class="↑ DONE"></div>
-        <div class="↑ TODO"></div>
-        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
-          <div class="graph-head"></div>
-          <p class="graph-progress">31 %</p>
-          <div class="graph-tail"></div>
-        </div>
-      </div>
-    </td>
-    <td class="2023-11-14">
-      <div class="day">
-        <h2 class="date">14</h2>
-        <label class="DONE"><input type="checkbox" checked>[14:00] 블루 자이언트 영화 관람</label>
-        <div class="↑ DONE"></div>
-        <div class="↑ TODO"></div>
-        <div class="graph" style="--index: 10; --size-w: 18em; --size-head: 21em; --size-tail: 0; --color-bg: #A3B6C9; --color-txt: #FFFFFF;">
-          <div class="graph-head"></div>
-          <p class="graph-progress">32 %</p>
-          <div class="graph-tail"></div>
-        </div>
-      </div>
-    </td>
-    <td class="2023-11-15">
-      <div class="day">
-        <h2 class="date">15</h2>
-      </div>
-    </td>
-    <td class="2023-11-16">
-      <div class="day">
-        <h2 class="date">16</h2>
-      </div>
-    </td>
-    <td class="2023-11-17">
-      <div class="day">
-        <h2 class="date">17</h2>
-      </div>
-    </td>
-    <td class="2023-11-18">
-      <div class="day">
-        <h2 class="date">18</h2>
-      </div>
-    </td>
+    <td class="xxxx-xx-x" colspan="4">
+    <td class="2024-02-01"><div class="day"><h2 class="date">01</h2></td>
+    <td class="2024-02-02"><div class="day"><h2 class="date">02</h2></td>
+    <td class="2024-02-03"><div class="day"><h2 class="date weekend">03</h2></td>
   </tr>
   <tr>
-    <td class="2023-11-19">
-      <div class="day">
-        <h2 class="date">19</h2>
-        <div class="date">할머니 장례식</div>
-      </div>
+    <td class="2024-02-04"><div class="day"><h2 class="date weekend">04</h2></td>
+    <td class="2024-02-05"><div class="day"><h2 class="date">05</h2></td>
+    <td class="2024-02-06"><div class="day"><h2 class="date">06</h2>
+      <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>[07:40] 아침 : 커피 & 음악감상</label>
+      <label class="TODO"><input type="checkbox" c hecked>[10:00] 추도예배</label>
+      <div class="↑ TODO"></div>
     </td>
-    <td class="2023-11-20">
-      <div class="day">
-        <h2 class="date">20</h2>
-      </div>
-    </td>
-    <td class="2023-11-21">
-      <div class="day">
-        <h2 class="date">21</h2>
-      </div>
-    </td>
-    <td class="2023-11-22">
-      <div class="day">
-        <h2 class="date">22</h2>
-      </div>
-    </td>
-    <td class="2023-11-23">
-      <div class="day">
-        <h2 class="date">23</h2>
-      </div>
-    </td>
-    <td class="2023-11-24">
-      <div class="day">
-        <h2 class="date">24</h2>
-      </div>
-    </td>
-    <td class="2023-11-25">
-      <div class="day">
-        <h2 class="date">25</h2>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td class="2023-11-26">
-      <div class="day">
-        <h2 class="date">26</h2>
-      </div>
-    </td>
-    <td class="2023-11-27">
-      <div class="day">
-        <h2 class="date">27</h2>
-      </div>
-    </td>
-    <td class="2023-11-28">
-      <div class="day">
-        <h2 class="date">28</h2>
-      </div>
-    </td>
-    <td class="2023-11-29">
-      <div class="day">
-        <h2 class="date">29</h2>
-      </div>
-    </td>
-    <td class="2023-11-30">
-      <div class="day">
-        <h2 class="date">30</h2>
-      </div>
-    </td>
-    <td class="xxxx-xx-x" colspan="2">
   </tr>
 </table>
