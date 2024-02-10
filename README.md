@@ -142,10 +142,20 @@
       <div class="↑ TODO"></div>
     </td>
     <td class="2024-02-07"><div class="day"><h2 class="date">07</h2>
-      <label class="TODO"><input type="checkbox" checked>10:00 | 밥솥 AS</label>
-      <label class="TODO"><input type="checkbox" checked>12:30 | 스타벅스 커피 타임</label>
-      <label class="TODO"><input type="checkbox" checked>13:30 | 점심 : 치킨</label>
-      <label class="TODO"><input type="checkbox" checked>20:00 | 유희왕 마스터듀얼 25주년</label>
+      <label class="DONE"><input type="checkbox" checked>10:00 | 밥솥 AS</label>
+      <label class="DONE"><input type="checkbox" checked>12:30 | 스타벅스 커피 타임</label>
+      <label class="DONE"><input type="checkbox" checked>13:30 | 점심 : 치킨</label>
+      <label class="DONE"><input type="checkbox" checked>20:00 | 유희왕 마스터듀얼 25주년</label>
+      <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>블로그 : C++</label>
+      <label class="TODO"><input type="checkbox" c hecked>알고리즘</label>
+      <div class="↑ TODO"></div>
+    </td>
+    <td class="2024-02-08"><div class="day"><h2 class="date">08</h2></td>
+    <td class="2024-02-09"><div class="day"><h2 class="date">09</h2><div class="date weekend">~ 설 연휴 ~</div></td>
+    <td class="2024-02-10"><div class="day"><h2 class="date weekend">10</h2>
+      <div class="date weekend">~ 설 연휴 ~</div>
+      <label class="DONE"><input type="checkbox" checked>18:00 | 저녁 : 설날 가족 회식</label>
       <div class="↑ DONE"></div>
       <label class="TODO"><input type="checkbox" c hecked>블로그 : C++</label>
       <label class="TODO"><input type="checkbox" c hecked>알고리즘</label>
