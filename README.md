@@ -162,4 +162,13 @@
       <div class="↑ TODO"></div>
     </td>
   </tr>
+  <tr>
+    <td class="2024-02-11"><div class="day"><h2 class="date weekend">11</h2>
+      <div class="date weekend">~ 설 연휴 ~</div>
+      <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>블로그 : C++</label>
+      <label class="TODO"><input type="checkbox" c hecked>알고리즘</label>
+      <div class="↑ TODO"></div>
+    </td>
+  </tr>
 </table>
