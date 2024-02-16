@@ -18,7 +18,7 @@
     --color-red: #FF8E99;
   }
 
-  .xxxx-xx-x {
+  .xxxx-xx-xx {
     background-color: #000000;
   }
 
@@ -126,7 +126,7 @@
 <table>
   <tr><th class="week weekend"> Sun </th><th class="week"> Mon </th><th class="week"> Tue </th><th class="week"> Wed </th><th class="week"> Thu </th><th class="week"> Fri </th><th class="week weekend"> Sat </th></tr>
   <tr>
-    <td class="xxxx-xx-x" colspan="4">
+    <td class="xxxx-xx-xx" colspan="4">
     <td class="2024-02-01"><div class="day"><h2 class="date">01</h2></td>
     <td class="2024-02-02"><div class="day"><h2 class="date">02</h2></td>
     <td class="2024-02-03"><div class="day"><h2 class="date weekend">03</h2></td>
@@ -168,6 +168,28 @@
       <div class="↑ DONE"></div>
       <label class="TODO"><input type="checkbox" c hecked>블로그 : C++</label>
       <label class="TODO"><input type="checkbox" c hecked>알고리즘</label>
+      <div class="↑ TODO"></div>
+    </td>
+    <td class="2024-02-12"><div class="day"><h2 class="date">12</h2></td>
+    <td class="2024-02-13"><div class="day"><h2 class="date">13</h2></td>
+    <td class="2024-02-14"><div class="day"><h2 class="date">14</h2></td>
+    <td class="2024-02-15"><div class="day"><h2 class="date">15</h2></td>
+    <td class="2024-02-16"><div class="day"><h2 class="date">16</h2>
+      <label class="DONE"><input type="checkbox" checked>09:30 | 아침 : 모닝커피 & 시리얼</label>
+      <label class="DONE"><input type="checkbox" checked>10:00 | 치과 예약</label>
+      <label class="DONE"><input type="checkbox" checked>10:39 | 상속세 관련 서류 정리</label>
+      <label class="DONE"><input type="checkbox" checked>12:10 | 점심 : 카레</label>
+      <label class="DONE"><input type="checkbox" checked>15:16 | 기타 연습</label>
+      <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 저녁 :</label>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 알고리즘</label>
+      <div class="↑ TODO"></div>
+    </td>
+    <td class="xxxx-xx-xx"><div class="day"><h2 class="date weekend">xx</h2>
+      <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 아침 :</label>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 점심 :</label>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 저녁 :</label>
       <div class="↑ TODO"></div>
     </td>
   </tr>
