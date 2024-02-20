@@ -134,58 +134,49 @@
   <tr>
     <td class="2024-02-04"><div class="day"><h2 class="date weekend">04</h2></td>
     <td class="2024-02-05"><div class="day"><h2 class="date">05</h2></td>
-    <td class="2024-02-06"><div class="day"><h2 class="date">06</h2>
-      <label class="DONE"><input type="checkbox" checked>[17:20] 유품 공구 정리</label>
-      <div class="↑ DONE"></div>
-      <label class="TODO"><input type="checkbox" c hecked>블로그 : C++</label>
-      <label class="TODO"><input type="checkbox" c hecked>알고리즘</label>
-      <div class="↑ TODO"></div>
-    </td>
-    <td class="2024-02-07"><div class="day"><h2 class="date">07</h2>
-      <label class="DONE"><input type="checkbox" checked>10:00 | 밥솥 AS</label>
-      <label class="DONE"><input type="checkbox" checked>12:30 | 스타벅스 커피 타임</label>
-      <label class="DONE"><input type="checkbox" checked>13:30 | 점심 : 치킨</label>
-      <label class="DONE"><input type="checkbox" checked>20:00 | 유희왕 마스터듀얼 25주년</label>
-      <div class="↑ DONE"></div>
-      <label class="TODO"><input type="checkbox" c hecked>블로그 : C++</label>
-      <label class="TODO"><input type="checkbox" c hecked>알고리즘</label>
-      <div class="↑ TODO"></div>
-    </td>
+    <td class="2024-02-06"><div class="day"><h2 class="date">06</h2><label class="DONE"><input type="checkbox" checked>[17:20] 유품 공구 정리</label><div class="↑ DONE"></div><label class="TODO"><input type="checkbox" c hecked>블로그 : C++</label><label class="TODO"><input type="checkbox" c hecked>알고리즘</label><div class="↑ TODO"></div></td>
+    <td class="2024-02-07"><div class="day"><h2 class="date">07</h2><label class="DONE"><input type="checkbox" checked>10:00 | 밥솥 AS</label><label class="DONE"><input type="checkbox" checked>12:30 | 스타벅스 커피 타임</label><label class="DONE"><input type="checkbox" checked>13:30 | 점심 : 치킨</label><label class="DONE"><input type="checkbox" checked>20:00 | 유희왕 마스터듀얼 25주년</label><div class="↑ DONE"></div><label class="TODO"><input type="checkbox" c hecked>블로그 : C++</label><label class="TODO"><input type="checkbox" c hecked>알고리즘</label><div class="↑ TODO"></div></td>
     <td class="2024-02-08"><div class="day"><h2 class="date">08</h2></td>
     <td class="2024-02-09"><div class="day"><h2 class="date">09</h2><div class="date weekend">~ 설 연휴 ~</div></td>
-    <td class="2024-02-10"><div class="day"><h2 class="date weekend">10</h2>
-      <div class="date weekend">~ 설 연휴 ~</div>
-      <label class="DONE"><input type="checkbox" checked>18:00 | 저녁 : 설날 가족 회식</label>
-      <div class="↑ DONE"></div>
-      <label class="TODO"><input type="checkbox" c hecked>블로그 : C++</label>
-      <label class="TODO"><input type="checkbox" c hecked>알고리즘</label>
-      <div class="↑ TODO"></div>
-    </td>
+    <td class="2024-02-10"><div class="day"><h2 class="date weekend">10</h2><div class="date weekend">~ 설 연휴 ~</div><label class="DONE"><input type="checkbox" checked>18:00 | 저녁 : 설날 가족 회식</label><div class="↑ DONE"></div><label class="TODO"><input type="checkbox" c hecked>블로그 : C++</label><label class="TODO"><input type="checkbox" c hecked>알고리즘</label><div class="↑ TODO"></div></td>
   </tr>
   <tr>
-    <td class="2024-02-11"><div class="day"><h2 class="date weekend">11</h2>
-      <div class="date weekend">~ 설 연휴 ~</div>
-      <div class="↑ DONE"></div>
-      <label class="TODO"><input type="checkbox" c hecked>블로그 : C++</label>
-      <label class="TODO"><input type="checkbox" c hecked>알고리즘</label>
-      <div class="↑ TODO"></div>
-    </td>
+    <td class="2024-02-11"><div class="day"><h2 class="date weekend">11</h2><div class="date weekend">~ 설 연휴 ~</div><div class="↑ DONE"></div><label class="TODO"><input type="checkbox" c hecked>블로그 : C++</label><label class="TODO"><input type="checkbox" c hecked>알고리즘</label><div class="↑ TODO"></div></td>
     <td class="2024-02-12"><div class="day"><h2 class="date">12</h2></td>
     <td class="2024-02-13"><div class="day"><h2 class="date">13</h2></td>
     <td class="2024-02-14"><div class="day"><h2 class="date">14</h2></td>
     <td class="2024-02-15"><div class="day"><h2 class="date">15</h2></td>
-    <td class="2024-02-16"><div class="day"><h2 class="date">16</h2>
-      <label class="DONE"><input type="checkbox" checked>09:30 | 아침 : 모닝커피 & 시리얼</label>
-      <label class="DONE"><input type="checkbox" checked>10:00 | 치과 예약</label>
-      <label class="DONE"><input type="checkbox" checked>10:39 | 상속세 관련 서류 정리</label>
-      <label class="DONE"><input type="checkbox" checked>12:10 | 점심 : 카레</label>
-      <label class="DONE"><input type="checkbox" checked>15:16 | 기타 연습</label>
+    <td class="2024-02-16"><div class="day"><h2 class="date">16</h2><label class="DONE"><input type="checkbox" checked>09:30 | 아침 : 모닝커피 & 시리얼</label><label class="DONE"><input type="checkbox" checked>10:00 | 치과 예약</label><label class="DONE"><input type="checkbox" checked>10:39 | 상속세 관련 서류 정리</label><label class="DONE"><input type="checkbox" checked>12:10 | 점심 : 카레</label><label class="DONE"><input type="checkbox" checked>15:16 | 기타 연습</label><div class="↑ DONE"></div><label class="TODO"><input type="checkbox" c hecked>--:-- | 저녁 :</label><label class="TODO"><input type="checkbox" c hecked>--:-- | 알고리즘</label><div class="↑ TODO"></div></td>
+    <td class="2024-02-17"><div class="day"><h2 class="date weekend">17</h2><label class="DONE"><input type="checkbox" checked>07:00 | 포항 여행</label><div class="↑ DONE"></div><div class="↑ TODO"></div></td>
+  </tr>
+  <tr>
+    <td class="2024-02-17"><div class="day"><h2 class="date weekend">17</h2>
+      <label class="DONE"><input type="checkbox" checked>07:00 | 포항 여행</label>
       <div class="↑ DONE"></div>
-      <label class="TODO"><input type="checkbox" c hecked>--:-- | 저녁 :</label>
-      <label class="TODO"><input type="checkbox" c hecked>--:-- | 알고리즘</label>
       <div class="↑ TODO"></div>
     </td>
-    <td class="xxxx-xx-xx"><div class="day"><h2 class="date weekend">xx</h2>
+    <td class="2024-02-18"><div class="day"><h2 class="date">18</h2>
+      <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 아침 :</label>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 점심 :</label>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 저녁 :</label>
+      <div class="↑ TODO"></div>
+    </td>
+    <td class="2024-02-19"><div class="day"><h2 class="date">19</h2>
+      <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 아침 :</label>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 점심 :</label>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 저녁 :</label>
+      <div class="↑ TODO"></div>
+    </td>
+    <td class="2024-02-20"><div class="day"><h2 class="date">20</h2>
+      <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 아침 :</label>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 점심 :</label>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 저녁 :</label>
+      <div class="↑ TODO"></div>
+    </td>
+    <td class="xxxx-xx-xx" colspan="x"><div class="day"><h2 class="date weekend">xx</h2>
       <div class="↑ DONE"></div>
       <label class="TODO"><input type="checkbox" c hecked>--:-- | 아침 :</label>
       <label class="TODO"><input type="checkbox" c hecked>--:-- | 점심 :</label>
