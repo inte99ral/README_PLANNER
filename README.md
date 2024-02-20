@@ -150,30 +150,25 @@
     <td class="2024-02-17"><div class="day"><h2 class="date weekend">17</h2><label class="DONE"><input type="checkbox" checked>07:00 | 포항 여행</label><div class="↑ DONE"></div><div class="↑ TODO"></div></td>
   </tr>
   <tr>
-    <td class="2024-02-17"><div class="day"><h2 class="date weekend">17</h2>
+    <td class="2024-02-18"><div class="day"><h2 class="date weekend">18</h2>
       <label class="DONE"><input type="checkbox" checked>07:00 | 포항 여행</label>
       <div class="↑ DONE"></div>
       <div class="↑ TODO"></div>
     </td>
-    <td class="2024-02-18"><div class="day"><h2 class="date">18</h2>
-      <div class="↑ DONE"></div>
-      <label class="TODO"><input type="checkbox" c hecked>--:-- | 아침 :</label>
-      <label class="TODO"><input type="checkbox" c hecked>--:-- | 점심 :</label>
-      <label class="TODO"><input type="checkbox" c hecked>--:-- | 저녁 :</label>
-      <div class="↑ TODO"></div>
-    </td>
     <td class="2024-02-19"><div class="day"><h2 class="date">19</h2>
+      <label class="DONE"><input type="checkbox" checked>10:00 | 아침 : 시리얼</label>
+      <label class="DONE"><input type="checkbox" checked>14:20 | 안과 다래끼 치료</label>
+      <label class="DONE"><input type="checkbox" c hecked>--:-- | 점심 :</label>
+      <label class="DONE"><input type="checkbox" c hecked>--:-- | 저녁 : 카레</label>
       <div class="↑ DONE"></div>
-      <label class="TODO"><input type="checkbox" c hecked>--:-- | 아침 :</label>
-      <label class="TODO"><input type="checkbox" c hecked>--:-- | 점심 :</label>
-      <label class="TODO"><input type="checkbox" c hecked>--:-- | 저녁 :</label>
       <div class="↑ TODO"></div>
     </td>
     <td class="2024-02-20"><div class="day"><h2 class="date">20</h2>
+      <label class="DONE"><input type="checkbox" c hecked>09:30 | 아침 : 시리얼</label>
+      <label class="DONE"><input type="checkbox" c hecked>13:00 | 점심 : 홈플러스 당당치킨</label>
+      <label class="DONE"><input type="checkbox" c hecked>14:30 | 동사무소 행정처리</label>
+      <label class="DONE"><input type="checkbox" c hecked>18:00 | 저녁 : 볶음밥</label>
       <div class="↑ DONE"></div>
-      <label class="TODO"><input type="checkbox" c hecked>--:-- | 아침 :</label>
-      <label class="TODO"><input type="checkbox" c hecked>--:-- | 점심 :</label>
-      <label class="TODO"><input type="checkbox" c hecked>--:-- | 저녁 :</label>
       <div class="↑ TODO"></div>
     </td>
     <td class="xxxx-xx-xx" colspan="x"><div class="day"><h2 class="date weekend">xx</h2>
