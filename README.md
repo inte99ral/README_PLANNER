@@ -157,17 +157,29 @@
     </td>
     <td class="2024-02-19"><div class="day"><h2 class="date">19</h2>
       <label class="DONE"><input type="checkbox" checked>10:00 | 아침 : 시리얼</label>
+      <label class="DONE"><input type="checkbox" checked>12:00 | 점심 : 묵은지등뼈찜</label>
       <label class="DONE"><input type="checkbox" checked>14:20 | 안과 다래끼 치료</label>
-      <label class="DONE"><input type="checkbox" c hecked>--:-- | 점심 :</label>
-      <label class="DONE"><input type="checkbox" c hecked>--:-- | 저녁 : 카레</label>
+      <label class="DONE"><input type="checkbox" checked>15:00 | 장보기</label>
+      <label class="DONE"><input type="checkbox" checked>18:02 | 저녁 : 카레</label>
       <div class="↑ DONE"></div>
       <div class="↑ TODO"></div>
     </td>
     <td class="2024-02-20"><div class="day"><h2 class="date">20</h2>
-      <label class="DONE"><input type="checkbox" c hecked>09:30 | 아침 : 시리얼</label>
-      <label class="DONE"><input type="checkbox" c hecked>13:00 | 점심 : 홈플러스 당당치킨</label>
-      <label class="DONE"><input type="checkbox" c hecked>14:30 | 동사무소 행정처리</label>
-      <label class="DONE"><input type="checkbox" c hecked>18:00 | 저녁 : 볶음밥</label>
+      <label class="DONE"><input type="checkbox" checked>09:30 | 아침 : 시리얼</label>
+      <label class="DONE"><input type="checkbox" checked>11:00 | 스케일링</label>
+      <label class="DONE"><input type="checkbox" checked>12:00 | 장보기</label>
+      <label class="DONE"><input type="checkbox" checked>13:00 | 점심 : 홈플러스 당당치킨</label>
+      <label class="DONE"><input type="checkbox" checked>14:30 | 동사무소 행정처리</label>
+      <label class="DONE"><input type="checkbox" checked>18:00 | 저녁 : 볶음밥</label>
+      <div class="↑ DONE"></div>
+      <div class="↑ TODO"></div>
+    </td>
+    <td class="2024-02-21"><div class="day"><h2 class="date">21</h2>
+      <label class="DONE"><input type="checkbox" checked>10:00 | 아침 : 시리얼</label>
+      <label class="DONE"><input type="checkbox" checked>11:00 | 눈 마사지</label>
+      <label class="DONE"><input type="checkbox" checked>13:00 | 점심 : 백반 & 김치전</label>
+      <label class="DONE"><input type="checkbox" checked>16:30 | 기타 연습</label>
+      <label class="DONE"><input type="checkbox" checked>18:00 | 저녁 : 볶음밥</label>
       <div class="↑ DONE"></div>
       <div class="↑ TODO"></div>
     </td>
