@@ -183,6 +183,15 @@
       <div class="↑ DONE"></div>
       <div class="↑ TODO"></div>
     </td>
+    <td class="2024-02-22"><div class="day"><h2 class="date">22</h2>
+      <label class="DONE"><input type="checkbox" checked>08:00 | 아침 : 빵 페스츄리</label>
+      <label class="DONE"><input type="checkbox" checked>12:00 | 점심 : 흑미밥 & 양념게장</label>
+      <label class="DONE"><input type="checkbox" checked>15:30 | 안과 재상담</label>
+      <label class="DONE"><input type="checkbox" checked>16:20 | 눈 마사지</label>
+      <label class="DONE"><input type="checkbox" checked>17:30 | 저녁 : 스파게티</label>
+      <div class="↑ DONE"></div>
+      <div class="↑ TODO"></div>
+    </td>
     <td class="xxxx-xx-xx" colspan="x"><div class="day"><h2 class="date weekend">xx</h2>
       <div class="↑ DONE"></div>
       <label class="TODO"><input type="checkbox" c hecked>--:-- | 아침 :</label>
