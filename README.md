@@ -192,6 +192,25 @@
       <div class="↑ DONE"></div>
       <div class="↑ TODO"></div>
     </td>
+    <td class="2024-02-23"><div class="day"><h2 class="date">23</h2>
+      <label class="DONE"><input type="checkbox" checked>08:00 | 아침 : 빵 페스츄리</label>
+      <label class="DONE"><input type="checkbox" checked>12:00 | 점심 : 흑미밥 & 양념게장</label>
+      <label class="DONE"><input type="checkbox" checked>15:30 | 안과 재상담</label>
+      <label class="DONE"><input type="checkbox" checked>16:20 | 눈 마사지</label>
+      <label class="DONE"><input type="checkbox" checked>18:00 | 저녁 : 소시지</label>
+      <div class="↑ DONE"></div>
+      <div class="↑ TODO"></div>
+    </td>
+    <td class="2024-02-24"><div class="day"><h2 class="date">24</h2>
+      <label class="DONE"><input type="checkbox" checked>12:00 | 꿀잠</label>
+      <label class="DONE"><input type="checkbox" checked>13:00 | 점심 : 안성탕면</label>
+      <label class="DONE"><input type="checkbox" checked>16:00 | 대청소</label>
+      <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 우마무스메</label>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 기타</label>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 듀얼</label>
+      <div class="↑ TODO"></div>
+    </td>
     <td class="xxxx-xx-xx" colspan="x"><div class="day"><h2 class="date weekend">xx</h2>
       <div class="↑ DONE"></div>
       <label class="TODO"><input type="checkbox" c hecked>--:-- | 아침 :</label>
