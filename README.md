@@ -205,10 +205,23 @@
       <label class="DONE"><input type="checkbox" checked>12:00 | 꿀잠</label>
       <label class="DONE"><input type="checkbox" checked>13:00 | 점심 : 안성탕면</label>
       <label class="DONE"><input type="checkbox" checked>16:00 | 대청소</label>
+      <label class="TODO"><input type="checkbox" checked>18:00 | 우마무스메</label>
       <div class="↑ DONE"></div>
-      <label class="TODO"><input type="checkbox" c hecked>--:-- | 우마무스메</label>
       <label class="TODO"><input type="checkbox" c hecked>--:-- | 기타</label>
       <label class="TODO"><input type="checkbox" c hecked>--:-- | 듀얼</label>
+      <div class="↑ TODO"></div>
+    </td>
+  </tr>
+  <tr>
+    <td class="2024-02-25"><div class="day"><h2 class="date weekend">25</h2>
+      <label class="TODO"><input type="checkbox" checked>11:00 | 주말 꿀잠</label>
+      <label class="TODO"><input type="checkbox" checked>12:00 | 점심 : 초코 페스츄리 빵</label>
+      <label class="TODO"><input type="checkbox" checked>15:00 | 우마무스메</label>
+      <label class="TODO"><input type="checkbox" checked>16:00 | 서류 작성</label>
+      <label class="TODO"><input type="checkbox" checked>17:00 | 서류 인쇄</label>
+      <label class="TODO"><input type="checkbox" checked>18:30 | 저녁 : 왕뚜껑 라면</label>
+      <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | A4 용지 구매</label>
       <div class="↑ TODO"></div>
     </td>
     <td class="xxxx-xx-xx" colspan="x"><div class="day"><h2 class="date weekend">xx</h2>
@@ -216,6 +229,9 @@
       <label class="TODO"><input type="checkbox" c hecked>--:-- | 아침 :</label>
       <label class="TODO"><input type="checkbox" c hecked>--:-- | 점심 :</label>
       <label class="TODO"><input type="checkbox" c hecked>--:-- | 저녁 :</label>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 우마무스메</label>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 기타</label>
+      <label class="TODO"><input type="checkbox" c hecked>--:-- | 듀얼</label>
       <div class="↑ TODO"></div>
     </td>
   </tr>
