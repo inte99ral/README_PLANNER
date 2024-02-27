@@ -225,27 +225,23 @@
       <div class="↑ TODO"></div>
     </td>
     <td class="2024-02-26"><div class="day"><h2 class="date">26</h2>
-      <label class="TODO"><input type="checkbox" checked>11:00 | 주말 꿀잠</label>
-      <label class="TODO"><input type="checkbox" checked>12:00 | 점심 : 초코 페스츄리 빵</label>
-      <label class="TODO"><input type="checkbox" checked>15:00 | 우마무스메</label>
-      <label class="TODO"><input type="checkbox" checked>16:00 | 서류 작성</label>
-      <label class="TODO"><input type="checkbox" checked>17:00 | 서류 인쇄</label>
-      <label class="TODO"><input type="checkbox" checked>18:30 | 저녁 : 왕뚜껑 라면</label>
+      <label class="TODO"><input type="checkbox" checked>10:00 | 아침 운동</label>
+      <label class="TODO"><input type="checkbox" checked>12:00 | 점심 : 불닭 + 이춘삼</label>
+      <label class="TODO"><input type="checkbox" checked>17:00 | A4 용지 구매</label>
+      <label class="TODO"><input type="checkbox" checked>18:30 | 저녁 : 부대찌개</label>
       <div class="↑ DONE"></div>
-      <label class="TODO"><input type="checkbox" c hecked>--:-- | A4 용지 구매</label>
       <div class="↑ TODO"></div>
     </td>
     <td class="2024-02-27"><div class="day"><h2 class="date">27</h2>
       <label class="DONE"><input type="checkbox" checked>08:00 | 아침 : 시리얼 커피</label>
-      <label class="DONE"><input type="checkbox" checked>08:00 | 주말 꿀잠</label>
-      <label class="DONE"><input type="checkbox" checked>10:00 | 점심 : 초코 페스츄리 빵</label>
+      <label class="DONE"><input type="checkbox" checked>09:00 | 아침 운동</label>
+      <label class="DONE"><input type="checkbox" checked>12:00 | 점심 : 불닭 + 이춘삼</label>
       <label class="DONE"><input type="checkbox" checked>13:00 | 갤럭시 버즈 2 프로</label>
-      <label class="DONE"><input type="checkbox" checked>15:00 | 우마무스메</label>
-      <label class="DONE"><input type="checkbox" checked>16:00 | 서류 작성</label>
+      <label class="DONE"><input type="checkbox" checked>15:20 | 가습기 청소</label>
+      <label class="DONE"><input type="checkbox" checked>16:00 | 눈 마사지</label>
       <label class="TODO"><input type="checkbox" checked>17:00 | 서류 인쇄</label>
-      <label class="TODO"><input type="checkbox" checked>18:30 | 저녁 : 왕뚜껑 라면</label>
+      <label class="TODO"><input type="checkbox" checked>18:00 | 저녁 : 삼겹살</label>
       <div class="↑ DONE"></div>
-      <label class="TODO"><input type="checkbox" c hecked>--:-- | A4 용지 구매</label>
       <div class="↑ TODO"></div>
     </td>
     <td class="xxxx-xx-xx" colspan="x"><div class="day"><h2 class="date weekend">xx</h2>
