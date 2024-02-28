@@ -239,9 +239,21 @@
       <label class="DONE"><input type="checkbox" checked>13:00 | 갤럭시 버즈 2 프로</label>
       <label class="DONE"><input type="checkbox" checked>15:20 | 가습기 청소</label>
       <label class="DONE"><input type="checkbox" checked>16:00 | 눈 마사지</label>
-      <label class="TODO"><input type="checkbox" checked>17:00 | 서류 인쇄</label>
-      <label class="TODO"><input type="checkbox" checked>18:00 | 저녁 : 삼겹살</label>
+      <label class="DONE"><input type="checkbox" checked>17:00 | 서류 인쇄</label>
+      <label class="DONE"><input type="checkbox" checked>18:00 | 저녁 : 삼겹살</label>
+      <label class="DONE"><input type="checkbox" checked>20:00 | 이미지 서치</label>
       <div class="↑ DONE"></div>
+      <div class="↑ TODO"></div>
+    </td>
+    <td class="2024-02-28"><div class="day"><h2 class="date">28</h2>
+      <label class="DONE"><input type="checkbox" checked>11:00 | 꿀잠</label>
+      <label class="DONE"><input type="checkbox" checked>12:00 | 점심 : 신라면</label>
+      <label class="DONE"><input type="checkbox" checked>15:00 | 이퀄라이저 점검</label>
+      <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>개발자 계정 앱 점검</label>
+      <label class="TODO"><input type="checkbox" c hecked>블로그 글 정리</label>
+      <label class="TODO"><input type="checkbox" c hecked>포트폴리오</label>
+      <label class="TODO"><input type="checkbox" c hecked>c++ 공부</label>
       <div class="↑ TODO"></div>
     </td>
     <td class="xxxx-xx-xx" colspan="x"><div class="day"><h2 class="date weekend">xx</h2>
