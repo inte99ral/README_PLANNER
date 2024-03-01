@@ -256,6 +256,17 @@
       <label class="TODO"><input type="checkbox" c hecked>c++ 공부</label>
       <div class="↑ TODO"></div>
     </td>
+    <td class="2024-02-29"><div class="day"><h2 class="date">29</h2>
+      <label class="DONE"><input type="checkbox" checked>08:00 | 아침 : 시리얼 커피</label>
+      <label class="DONE"><input type="checkbox" checked>12:00 | 점심 : 신라면</label>
+      <label class="DONE"><input type="checkbox" checked>15:00 | 이퀄라이저 점검</label>
+      <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>개발자 계정 앱 점검</label>
+      <label class="TODO"><input type="checkbox" c hecked>블로그 글 정리</label>
+      <label class="TODO"><input type="checkbox" c hecked>포트폴리오</label>
+      <label class="TODO"><input type="checkbox" c hecked>c++ 공부</label>
+      <div class="↑ TODO"></div>
+    </td>
     <td class="xxxx-xx-xx" colspan="x"><div class="day"><h2 class="date weekend">xx</h2>
       <div class="↑ DONE"></div>
       <label class="TODO"><input type="checkbox" c hecked>--:-- | 아침 :</label>
