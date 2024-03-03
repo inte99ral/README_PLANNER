@@ -1,4 +1,4 @@
-<h1>2024. 2</h1>
+<h1>2024. 3</h1>
 
 <style>
   @font-face {
@@ -148,6 +148,20 @@
       <label class="DONE"><input type="checkbox" checked>16:00 | 음악 감상</label>
       <label class="DONE"><input type="checkbox" checked>18:30 | 저녁 : 된장찌개 백반</label>
       <label class="DONE"><input type="checkbox" checked>20:00 | 서류 작업</label>
+      <div class="↑ DONE"></div>
+      <div class="↑ TODO"></div>
+    </td>
+  </tr>
+  <tr>
+    <td class="2024-03-03"><div class="day">
+      <h2 class="date weekend">3</h2>
+      <label class="DONE"><input type="checkbox" checked>10:00 | 꿀잠</label>
+      <label class="DONE"><input type="checkbox" checked>12:30 | 코딩</label>
+      <label class="DONE"><input type="checkbox" checked>13:00 | 점심 : 신라면</label>
+      <label class="DONE"><input type="checkbox" checked>16:00 | 서류 작업</label>
+      <label class="DONE"><input type="checkbox" checked>17:20 | 주말 청소</label>
+      <label class="DONE"><input type="checkbox" checked>18:30 | 저녁 : 삼겹살 데이 삼겹살</label>
+      <label class="DONE"><input type="checkbox" checked>20:00 | 알고리즘 공부</label>
       <div class="↑ DONE"></div>
       <div class="↑ TODO"></div>
     </td>
