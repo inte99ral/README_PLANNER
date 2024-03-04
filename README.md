@@ -171,9 +171,9 @@
       <label class="DONE"><input type="checkbox" checked>10:00 | 알고리즘 공부</label>
       <label class="DONE"><input type="checkbox" checked>12:30 | 점심 : 왕뚜껑 봉지라면</label>
       <label class="DONE"><input type="checkbox" checked>14:00 | 눈마사지</label>
-      <label class="DONE"><input type="checkbox" checked>17:20 | 주말 청소</label>
-      <label class="DONE"><input type="checkbox" checked>18:30 | 저녁 : 삼겹살 데이 삼겹살</label>
+      <label class="DONE"><input type="checkbox" checked>18:30 | 저녁 : 된장찌개 & 소시지 구이</label>
       <label class="DONE"><input type="checkbox" checked>20:00 | 알고리즘 공부</label>
+      <label class="DONE"><input type="checkbox" checked>21:27 | g++ 디버깅</label>
       <div class="↑ DONE"></div>
       <div class="↑ TODO"></div>
     </td>
