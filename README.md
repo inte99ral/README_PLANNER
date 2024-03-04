@@ -165,5 +165,17 @@
       <div class="↑ DONE"></div>
       <div class="↑ TODO"></div>
     </td>
+    <td class="2024-03-04"><div class="day">
+      <h2 class="date">4</h2>
+      <label class="DONE"><input type="checkbox" checked>08:00 | 아침 : 시리얼 & 커피</label>
+      <label class="DONE"><input type="checkbox" checked>10:00 | 알고리즘 공부</label>
+      <label class="DONE"><input type="checkbox" checked>12:30 | 점심 : 왕뚜껑 봉지라면</label>
+      <label class="DONE"><input type="checkbox" checked>14:00 | 눈마사지</label>
+      <label class="DONE"><input type="checkbox" checked>17:20 | 주말 청소</label>
+      <label class="DONE"><input type="checkbox" checked>18:30 | 저녁 : 삼겹살 데이 삼겹살</label>
+      <label class="DONE"><input type="checkbox" checked>20:00 | 알고리즘 공부</label>
+      <div class="↑ DONE"></div>
+      <div class="↑ TODO"></div>
+    </td>
   </tr>
 </table>
