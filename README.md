@@ -174,7 +174,16 @@
       <label class="DONE"><input type="checkbox" checked>18:30 | 저녁 : 된장찌개 & 소시지 구이</label>
       <label class="DONE"><input type="checkbox" checked>20:00 | 알고리즘 공부</label>
       <label class="DONE"><input type="checkbox" checked>21:27 | g++ 디버깅</label>
+      <label class="DONE"><input type="checkbox" checked>23:11 | 기타 정비</label>
       <div class="↑ DONE"></div>
+      <div class="↑ TODO"></div>
+    </td>
+    <td class="2024-03-05"><div class="day">
+      <h2 class="date">5</h2>
+      <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>운동</label>
+      <label class="TODO"><input type="checkbox" c hecked>알고리즘</label>
+      <label class="TODO"><input type="checkbox" c hecked>언리얼 공부</label>
       <div class="↑ TODO"></div>
     </td>
   </tr>
