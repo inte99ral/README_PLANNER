@@ -180,7 +180,14 @@
     </td>
     <td class="2024-03-05"><div class="day">
       <h2 class="date">5</h2>
+      <label class="TODO"><input type="checkbox" c hecked>10:00 | 늦잠</label>
+      <label class="TODO"><input type="checkbox" c hecked>11:00 | c++ 공부 : 헤더 정리</label>
+      <label class="TODO"><input type="checkbox" c hecked>12:00 | 아점 : 왕뚜껑 쿠지라이식</label>
+      <label class="TODO"><input type="checkbox" c hecked>15:00 | c++ 공부 : 리눅스 쉘 스크립트</label>
+      <label class="TODO"><input type="checkbox" c hecked>18:00 | 저녁 : 두부 김치 & 계란후라이</label>
+      <label class="TODO"><input type="checkbox" c hecked>20:00 | 기타 연습</label>
       <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>오전 칼기상</label>
       <label class="TODO"><input type="checkbox" c hecked>운동</label>
       <label class="TODO"><input type="checkbox" c hecked>알고리즘</label>
       <label class="TODO"><input type="checkbox" c hecked>언리얼 공부</label>
