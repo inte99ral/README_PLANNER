@@ -194,9 +194,11 @@
     </td>
     <td class="2024-03-06"><div class="day">
       <h2 class="date">5</h2>
+      <label class="TODO"><input type="checkbox" checked>10:00 | 늦잠</label>
+      <label class="TODO"><input type="checkbox" checked>11:00 | 알고리즘</label>
+      <label class="TODO"><input type="checkbox" checked>12:00 | 아점 : 이춘삼 + 라면스프 대실패</label>
       <div class="↑ DONE"></div>
       <label class="TODO"><input type="checkbox" c hecked>삼성</label>
-      <label class="TODO"><input type="checkbox" c hecked>알고리즘</label>
       <label class="TODO"><input type="checkbox" c hecked>TH3 세팅</label>
       <div class="↑ TODO"></div>
     </td>
