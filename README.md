@@ -208,6 +208,7 @@
       <label class="TODO"><input type="checkbox" checked>11:00 | 알고리즘</label>
       <label class="TODO"><input type="checkbox" checked>12:00 | 아점 : 신라면</label>
       <label class="TODO"><input type="checkbox" checked>13:00 | 예비군 작계훈련</label>
+      <label class="TODO"><input type="checkbox" checked>20:00 | 페그오</label>
       <div class="↑ DONE"></div>
       <label class="TODO"><input type="checkbox" c hecked>삼성</label>
       <label class="TODO"><input type="checkbox" c hecked>TH3 세팅</label>
