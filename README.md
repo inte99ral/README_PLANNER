@@ -202,11 +202,11 @@
     </td>
     <td class="2024-03-07"><div class="day">
       <h2 class="date">7</h2>
-      <label class="TODO"><input type="checkbox" checked>10:00 | 늦잠</label>
-      <label class="TODO"><input type="checkbox" checked>11:00 | 알고리즘</label>
-      <label class="TODO"><input type="checkbox" checked>12:00 | 아점 : 신라면</label>
-      <label class="TODO"><input type="checkbox" checked>13:00 | 예비군 작계훈련</label>
-      <label class="TODO"><input type="checkbox" checked>20:00 | 페그오</label>
+      <label class="DONE"><input type="checkbox" checked>10:00 | 늦잠</label>
+      <label class="DONE"><input type="checkbox" checked>11:00 | 알고리즘</label>
+      <label class="DONE"><input type="checkbox" checked>12:00 | 아점 : 신라면</label>
+      <label class="DONE"><input type="checkbox" checked>13:00 | 예비군 작계훈련</label>
+      <label class="DONE"><input type="checkbox" checked>20:00 | 페그오</label>
       <div class="↑ DONE"></div>
       <label class="TODO"><input type="checkbox" c hecked>삼성</label>
       <label class="TODO"><input type="checkbox" c hecked>TH3 세팅</label>
@@ -214,14 +214,22 @@
     </td>
     <td class="2024-03-08"><div class="day">
       <h2 class="date">8</h2>
-      <label class="TODO"><input type="checkbox" checked>08:00 | 아침 : 모닝빵 & 커피</label>
-      <label class="TODO"><input type="checkbox" checked>09:30 | 알고리즘</label>
-      <label class="TODO"><input type="checkbox" checked>12:00 | 아점 : 신라면</label>
-      <label class="TODO"><input type="checkbox" checked>13:00 | 예비군 작계훈련</label>
-      <label class="TODO"><input type="checkbox" checked>20:00 | 페그오</label>
+      <label class="DONE"><input type="checkbox" checked>08:00 | 아침 : 모닝빵 & 커피</label>
+      <label class="DONE"><input type="checkbox" checked>09:30 | 알고리즘</label>
+      <label class="DONE"><input type="checkbox" checked>12:00 | 점심 : 신라면</label>
+      <label class="DONE"><input type="checkbox" checked>13:00 | c++ 공부</label>
+      <label class="DONE"><input type="checkbox" checked>16:00 | 삼성</label>
+      <label class="DONE"><input type="checkbox" checked>20:00 | 페그오</label>
+      <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>TH3 세팅</label>
+      <div class="↑ TODO"></div>
+    </td>
+    <td class="2024-03-09"><div class="day">
+      <h2 class="date weekend">9</h2>
       <div class="↑ DONE"></div>
       <label class="TODO"><input type="checkbox" c hecked>삼성</label>
       <label class="TODO"><input type="checkbox" c hecked>TH3 세팅</label>
+      <label class="TODO"><input type="checkbox" c hecked>등본 및 서류 준비</label>
       <div class="↑ TODO"></div>
     </td>
   </tr>
