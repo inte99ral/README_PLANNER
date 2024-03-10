@@ -208,8 +208,6 @@
       <label class="DONE"><input type="checkbox" checked>13:00 | 예비군 작계훈련</label>
       <label class="DONE"><input type="checkbox" checked>20:00 | 페그오</label>
       <div class="↑ DONE"></div>
-      <label class="TODO"><input type="checkbox" c hecked>삼성</label>
-      <label class="TODO"><input type="checkbox" c hecked>TH3 세팅</label>
       <div class="↑ TODO"></div>
     </td>
     <td class="2024-03-08"><div class="day">
@@ -221,15 +219,29 @@
       <label class="DONE"><input type="checkbox" checked>16:00 | 삼성</label>
       <label class="DONE"><input type="checkbox" checked>20:00 | 페그오</label>
       <div class="↑ DONE"></div>
-      <label class="TODO"><input type="checkbox" c hecked>TH3 세팅</label>
       <div class="↑ TODO"></div>
     </td>
     <td class="2024-03-09"><div class="day">
       <h2 class="date weekend">9</h2>
+      <label class="TODO"><input type="checkbox" c hecked>13:00 | 등본 및 서류 준비</label>
+      <label class="DONE"><input type="checkbox" c hecked>18:00 | 저녁 : 홈플러스 로스트 치킨</label>
       <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>코나미 정리</label>
+      <label class="TODO"><input type="checkbox" c hecked>카카오 정리</label>
+      <label class="TODO"><input type="checkbox" c hecked>TH3 세팅</label>
+      <div class="↑ TODO"></div>
+    </td>
+  </tr>
+  <tr>
+    <td class="2024-03-09"><div class="day">
+      <h2 class="date weekend">10</h2>
+      <label class="DONE"><input type="checkbox" c hecked>12:00 | 점심 : 홈플러스 로스트 치킨</label>
+      <label class="DONE"><input type="checkbox" c hecked>15:00 | 코나미 정리</label>
+      <label class="DONE"><input type="checkbox" c hecked>코나미 정리</label>
+      <div class="↑ DONE"></div>
+      <label class="TODO"><input type="checkbox" c hecked>카카오 정리</label>
       <label class="TODO"><input type="checkbox" c hecked>삼성</label>
       <label class="TODO"><input type="checkbox" c hecked>TH3 세팅</label>
-      <label class="TODO"><input type="checkbox" c hecked>등본 및 서류 준비</label>
       <div class="↑ TODO"></div>
     </td>
   </tr>
