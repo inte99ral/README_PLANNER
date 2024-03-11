@@ -233,13 +233,16 @@
     </td>
   </tr>
   <tr>
-    <td class="2024-03-09"><div class="day">
+    <td class="2024-03-10"><div class="day">
       <h2 class="date weekend">10</h2>
+      <label class="DONE"><input type="checkbox" c hecked>07:30 | 칼기상</label>
+      <label class="DONE"><input type="checkbox" c hecked>08:00 | 아침 : 빵 & 커피</label>
       <label class="DONE"><input type="checkbox" c hecked>12:00 | 점심 : 홈플러스 로스트 치킨</label>
       <label class="DONE"><input type="checkbox" c hecked>15:00 | 코나미 정리</label>
-      <label class="DONE"><input type="checkbox" c hecked>코나미 정리</label>
+      <label class="DONE"><input type="checkbox" c hecked>18:00 | 카카오 정리</label>
+      <label class="DONE"><input type="checkbox" c hecked>18:30 | 저녁 : 돼지고기 안심</label>
       <div class="↑ DONE"></div>
-      <label class="TODO"><input type="checkbox" c hecked>카카오 정리</label>
+      <label class="DONE"><input type="checkbox" c hecked>코나미 정리</label>
       <label class="TODO"><input type="checkbox" c hecked>삼성</label>
       <label class="TODO"><input type="checkbox" c hecked>TH3 세팅</label>
       <div class="↑ TODO"></div>
