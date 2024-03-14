@@ -235,16 +235,36 @@
   <tr>
     <td class="2024-03-10"><div class="day">
       <h2 class="date weekend">10</h2>
-      <label class="DONE"><input type="checkbox" c hecked>07:30 | 칼기상</label>
-      <label class="DONE"><input type="checkbox" c hecked>08:00 | 아침 : 빵 & 커피</label>
-      <label class="DONE"><input type="checkbox" c hecked>12:00 | 점심 : 홈플러스 로스트 치킨</label>
-      <label class="DONE"><input type="checkbox" c hecked>15:00 | 코나미 정리</label>
-      <label class="DONE"><input type="checkbox" c hecked>18:00 | 카카오 정리</label>
-      <label class="DONE"><input type="checkbox" c hecked>18:30 | 저녁 : 돼지고기 안심</label>
+      <label class="DONE"><input type="checkbox" checked>07:30 | 칼기상</label>
+      <label class="DONE"><input type="checkbox" checked>08:00 | 아침 : 빵 & 커피</label>
+      <label class="DONE"><input type="checkbox" checked>12:00 | 점심 : 홈플러스 로스트 치킨</label>
+      <label class="DONE"><input type="checkbox" checked>15:00 | 코나미 정리</label>
+      <label class="DONE"><input type="checkbox" checked>18:00 | 카카오 정리</label>
+      <label class="DONE"><input type="checkbox" checked>18:30 | 저녁 : 돼지고기 안심</label>
+      <label class="DONE"><input type="checkbox" checked>19:30 | TH3 세팅</label>
       <div class="↑ DONE"></div>
       <label class="DONE"><input type="checkbox" c hecked>코나미 정리</label>
       <label class="TODO"><input type="checkbox" c hecked>삼성</label>
-      <label class="TODO"><input type="checkbox" c hecked>TH3 세팅</label>
+      <div class="↑ TODO"></div>
+    </td>
+    <td class="2024-03-11"><div class="day">
+      <h2 class="date">11</h2>
+      <div class="↑ DONE"></div>
+      <div class="↑ TODO"></div>
+    </td>
+    <td class="2024-03-12"><div class="day">
+      <h2 class="date">12</h2>
+      <div class="↑ DONE"></div>
+      <div class="↑ TODO"></div>
+    </td>
+    <td class="2024-03-13"><div class="day">
+      <h2 class="date">13</h2>
+      <div class="↑ DONE"></div>
+      <div class="↑ TODO"></div>
+    </td>
+    <td class="2024-03-14"><div class="day">
+      <h2 class="date">14</h2>
+      <div class="↑ DONE"></div>
       <div class="↑ TODO"></div>
     </td>
   </tr>
